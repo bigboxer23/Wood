@@ -1,0 +1,901 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Wenge</key>
+	<dict>
+		<key>Wenge</key>
+		<dict>
+			<key>Plain Sawn</key>
+			<string>.00201</string>
+		</dict>
+	</dict>
+	<key>Walnut</key>
+	<dict>
+		<key>Tiger&apos;s Eye</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00188</string>
+			<key>Plain Sawn</key>
+			<string>.00323</string>
+		</dict>
+		<key>Patagonian</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00197</string>
+			<key>Plain Sawn</key>
+			<string>.00319</string>
+		</dict>
+		<key>Black</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.0019</string>
+			<key>Plain Sawn</key>
+			<string>.00274</string>
+		</dict>
+		<key>Caribbean</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00291</string>
+			<key>Plain Sawn</key>
+			<string>.00349</string>
+		</dict>
+		<key>Brazilian</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00266</string>
+			<key>Plain Sawn</key>
+			<string>.00307</string>
+		</dict>
+	</dict>
+	<key>Tupelo</key>
+	<dict>
+		<key>Water</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00144</string>
+			<key>Plain Sawn</key>
+			<string>.00267</string>
+		</dict>
+	</dict>
+	<key>Tigerwood</key>
+	<dict>
+		<key>Tigerwood</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00147</string>
+			<key>Plain Sawn</key>
+			<string>.00228</string>
+		</dict>
+	</dict>
+	<key>Sweetgum</key>
+	<dict>
+		<key>Sweetgum</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00183</string>
+			<key>Plain Sawn</key>
+			<string>.00365</string>
+		</dict>
+	</dict>
+	<key>Spruce</key>
+	<dict>
+		<key>Black</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00141</string>
+			<key>Plain Sawn</key>
+			<string>.00237</string>
+		</dict>
+		<key>Engelmann</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.0013</string>
+			<key>Plain Sawn</key>
+			<string>.00248</string>
+		</dict>
+		<key>Red</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.0013</string>
+			<key>Plain Sawn</key>
+			<string>.00274</string>
+		</dict>
+		<key>Sitka</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00148</string>
+			<key>Plain Sawn</key>
+			<string>.00263</string>
+		</dict>
+	</dict>
+	<key>Shedua-Mutenye</key>
+	<dict>
+		<key>Shedua-Mutenye</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00188</string>
+			<key>Plain Sawn</key>
+			<string>.00323</string>
+		</dict>
+	</dict>
+	<key>Rosewood</key>
+	<dict>
+		<key>Patagonian</key>
+		<dict>
+			<key>Plain Sawn</key>
+			<string>.00324</string>
+		</dict>
+		<key>Striped</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00188</string>
+			<key>Plain Sawn</key>
+			<string>.00323</string>
+		</dict>
+		<key>Bolivian</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00146</string>
+			<key>Plain Sawn</key>
+			<string>.00205</string>
+		</dict>
+		<key>Caribbean</key>
+		<dict>
+			<key>Plain Sawn</key>
+			<string>.00211</string>
+		</dict>
+	</dict>
+	<key>Purpleheart</key>
+	<dict>
+		<key>Purpleheart</key>
+		<dict>
+			<key>Plain Sawn</key>
+			<string>.00212</string>
+		</dict>
+	</dict>
+	<key>Pine</key>
+	<dict>
+		<key>Southern Yellow</key>
+		<dict>
+			<key>Plain Sawn</key>
+			<string>.00265</string>
+		</dict>
+		<key>Virgina</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00144</string>
+			<key>Plain Sawn</key>
+			<string>.00252</string>
+		</dict>
+		<key>Western White</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00141</string>
+			<key>Plain Sawn</key>
+			<string>.00259</string>
+		</dict>
+		<key>Heart</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.0024</string>
+			<key>Plain Sawn</key>
+			<string>.00268</string>
+		</dict>
+		<key>Jack</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00126</string>
+			<key>Plain Sawn</key>
+			<string>.0023</string>
+		</dict>
+		<key>Loblolly</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00165</string>
+			<key>Plain Sawn</key>
+			<string>.00259</string>
+		</dict>
+		<key>Lodgepole</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00148</string>
+			<key>Plain Sawn</key>
+			<string>.00234</string>
+		</dict>
+		<key>Longleaf</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00176</string>
+			<key>Plain Sawn</key>
+			<string>.00263</string>
+		</dict>
+		<key>Pond</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00165</string>
+			<key>Plain Sawn</key>
+			<string>.00259</string>
+		</dict>
+		<key>Ponderosa</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00133</string>
+			<key>Plain Sawn</key>
+			<string>.00216</string>
+		</dict>
+		<key>Radiata (Monterey)</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.001</string>
+			<key>Plain Sawn</key>
+			<string>.00233</string>
+		</dict>
+		<key>Red</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.0013</string>
+			<key>Plain Sawn</key>
+			<string>.00252</string>
+		</dict>
+		<key>Shortleaf</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00158</string>
+			<key>Plain Sawn</key>
+			<string>.00271</string>
+		</dict>
+		<key>Slash</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00187</string>
+			<key>Plain Sawn</key>
+			<string>.00267</string>
+		</dict>
+		<key>Sugar</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00099</string>
+			<key>Plain Sawn</key>
+			<string>.00194</string>
+		</dict>
+		<key>Eastern White</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00071</string>
+			<key>Plain Sawn</key>
+			<string>.00212</string>
+		</dict>
+	</dict>
+	<key>Pecan</key>
+	<dict>
+		<key>Pecan</key>
+		<dict>
+			<key>Plain Sawn</key>
+			<string>.00315</string>
+		</dict>
+	</dict>
+	<key>Patagonian</key>
+	<dict>
+		<key>Patagonian</key>
+		<dict>
+			<key>Plain Sawn</key>
+			<string>.00302</string>
+		</dict>
+	</dict>
+	<key>Other</key>
+	<dict>
+		<key>Juniper</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00111</string>
+			<key>Plain Sawn</key>
+			<string>.00155</string>
+		</dict>
+		<key>Padauk</key>
+		<dict>
+			<key>Plain Sawn</key>
+			<string>.0018</string>
+		</dict>
+		<key>Poplar-Yellow</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00158</string>
+			<key>Plain Sawn</key>
+			<string>.00289</string>
+		</dict>
+		<key>Teak</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00138</string>
+			<key>Plain Sawn</key>
+			<string>.00186</string>
+		</dict>
+		<key>Tanoak</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00169</string>
+			<key>Plain Sawn</key>
+			<string>.00423</string>
+		</dict>
+		<key>Tamarack</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00126</string>
+			<key>Plain Sawn</key>
+			<string>.00259</string>
+		</dict>
+		<key>Hackberry</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00165</string>
+			<key>Plain Sawn</key>
+			<string>.00315</string>
+		</dict>
+		<key>Butternut</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00116</string>
+			<key>Plain Sawn</key>
+			<string>.00223</string>
+		</dict>
+	</dict>
+	<key>Oak</key>
+	<dict>
+		<key>White</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.0018</string>
+			<key>Plain Sawn</key>
+			<string>.00365</string>
+		</dict>
+		<key>Southern Red</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00158</string>
+			<key>Plain Sawn</key>
+			<string>.00369</string>
+		</dict>
+		<key>Water</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00151</string>
+			<key>Plain Sawn</key>
+			<string>.0035</string>
+		</dict>
+		<key>Willow</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00151</string>
+			<key>Plain Sawn</key>
+			<string>.0035</string>
+		</dict>
+		<key>Laurel</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00151</string>
+			<key>Plain Sawn</key>
+			<string>.0035</string>
+		</dict>
+		<key>Black</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00123</string>
+			<key>Plain Sawn</key>
+			<string>.0023</string>
+		</dict>
+		<key>Live</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.0023</string>
+			<key>Plain Sawn</key>
+			<string>.00338</string>
+		</dict>
+		<key>Northern Red</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00158</string>
+			<key>Plain Sawn</key>
+			<string>.00369</string>
+		</dict>
+		<key>Overcup</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00183</string>
+			<key>Plain Sawn</key>
+			<string>.00462</string>
+		</dict>
+	</dict>
+	<key>Mesquite</key>
+	<dict>
+		<key>Mesquite</key>
+		<dict>
+			<key>Plain Sawn</key>
+			<string>.00129</string>
+		</dict>
+	</dict>
+	<key>Merbau</key>
+	<dict>
+		<key>Merbau</key>
+		<dict>
+			<key>Plain Sawn</key>
+			<string>.00158</string>
+		</dict>
+	</dict>
+	<key>Maple</key>
+	<dict>
+		<key>Sliver</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00102</string>
+			<key>Plain Sawn</key>
+			<string>.00252</string>
+		</dict>
+		<key>Patagonian</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00207</string>
+			<key>Plain Sawn</key>
+			<string>.00231</string>
+		</dict>
+		<key>Black</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00165</string>
+			<key>Plain Sawn</key>
+			<string>.00353</string>
+		</dict>
+		<key>Hard</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00165</string>
+			<key>Plain Sawn</key>
+			<string>.00353</string>
+		</dict>
+		<key>Red</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00137</string>
+			<key>Plain Sawn</key>
+			<string>.00289</string>
+		</dict>
+		<key>Bigleaf</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00126</string>
+			<key>Plain Sawn</key>
+			<string>.00248</string>
+		</dict>
+	</dict>
+	<key>Mahogany</key>
+	<dict>
+		<key>Andean</key>
+		<dict>
+			<key>Plain Sawn</key>
+			<string>.00324</string>
+		</dict>
+		<key>Royal</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00202</string>
+			<key>Plain Sawn</key>
+			<string>.00261</string>
+		</dict>
+		<key>Santos</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00163</string>
+			<key>Plain Sawn</key>
+			<string>.00238</string>
+		</dict>
+	</dict>
+	<key>Magnolia</key>
+	<dict>
+		<key>Southern</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00187</string>
+			<key>Plain Sawn</key>
+			<string>.0023</string>
+		</dict>
+		<key>Sweetbay</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00162</string>
+			<key>Plain Sawn</key>
+			<string>.00293</string>
+		</dict>
+	</dict>
+	<key>Kempas</key>
+	<dict>
+		<key>Kempas</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00308</string>
+			<key>Plain Sawn</key>
+			<string>.00357</string>
+		</dict>
+	</dict>
+	<key>Jarrah</key>
+	<dict>
+		<key>Jarrah</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00236</string>
+			<key>Plain Sawn</key>
+			<string>.00396</string>
+		</dict>
+	</dict>
+	<key>Iroko/Kambala</key>
+	<dict>
+		<key>Iroko/Kambala</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00125</string>
+			<key>Plain Sawn</key>
+			<string>.00192</string>
+		</dict>
+	</dict>
+	<key>IPE</key>
+	<dict>
+		<key>IPE</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00266</string>
+			<key>Plain Sawn</key>
+			<string>.00307</string>
+		</dict>
+	</dict>
+	<key>Hickory</key>
+	<dict>
+		<key>Pecan</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00169</string>
+			<key>Plain Sawn</key>
+			<string>.00315</string>
+		</dict>
+		<key>Shellbark</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00259</string>
+			<key>Plain Sawn</key>
+			<string>.00411</string>
+		</dict>
+		<key>Shagbark</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00259</string>
+			<key>Plain Sawn</key>
+			<string>.00411</string>
+		</dict>
+		<key>Pignut</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00259</string>
+			<key>Plain Sawn</key>
+			<string>.00411</string>
+		</dict>
+		<key>Mockernut</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00259</string>
+			<key>Plain Sawn</key>
+			<string>.00411</string>
+		</dict>
+	</dict>
+	<key>Hemlock</key>
+	<dict>
+		<key>Western</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00144</string>
+			<key>Plain Sawn</key>
+			<string>.00274</string>
+		</dict>
+		<key>Eastern</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00102</string>
+			<key>Plain Sawn</key>
+			<string>.00237</string>
+		</dict>
+	</dict>
+	<key>Fir</key>
+	<dict>
+		<key>Balsam</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00099</string>
+			<key>Plain Sawn</key>
+			<string>.00241</string>
+		</dict>
+		<key>Douglas</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00165</string>
+			<key>Plain Sawn</key>
+			<string>.00267</string>
+		</dict>
+	</dict>
+	<key>Elm</key>
+	<dict>
+		<key>American</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00144</string>
+			<key>Plain Sawn</key>
+			<string>.00338</string>
+		</dict>
+		<key>Rock</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00165</string>
+			<key>Plain Sawn</key>
+			<string>.00285</string>
+		</dict>
+		<key>Cedar</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00183</string>
+			<key>Plain Sawn</key>
+			<string>.00419</string>
+		</dict>
+	</dict>
+	<key>Ebony</key>
+	<dict>
+		<key>Ebony</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00188</string>
+			<key>Plain Sawn</key>
+			<string>.00323</string>
+		</dict>
+	</dict>
+	<key>Doussie</key>
+	<dict>
+		<key>Doussie</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00138</string>
+			<key>Plain Sawn</key>
+			<string>.00244</string>
+		</dict>
+	</dict>
+	<key>Cypress</key>
+	<dict>
+		<key>Bermuda</key>
+		<dict>
+			<key>Plain Sawn</key>
+			<string>.00374</string>
+		</dict>
+		<key>Bald</key>
+		<dict>
+			<key>Plain Sawn</key>
+			<string>.00216</string>
+		</dict>
+		<key>Australian</key>
+		<dict>
+			<key>Plain Sawn</key>
+			<string>.00374</string>
+		</dict>
+	</dict>
+	<key>Cumaru</key>
+	<dict>
+		<key>Cumaru</key>
+		<dict>
+			<key>Plain Sawn</key>
+			<string>.00312</string>
+			<key>Quarter Sawn</key>
+			<string>.00364</string>
+		</dict>
+	</dict>
+	<key>Chestnut</key>
+	<dict>
+		<key>American</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00116</string>
+			<key>Plain Sawn</key>
+			<string>.00234</string>
+		</dict>
+		<key>Southern</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00302</string>
+			<key>Plain Sawn</key>
+			<string>.00367</string>
+		</dict>
+		<key>Sweet</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00184</string>
+			<key>Plain Sawn</key>
+			<string>.00328</string>
+		</dict>
+	</dict>
+	<key>Cherry</key>
+	<dict>
+		<key>Black</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00126</string>
+			<key>Plain Sawn</key>
+			<string>.00248</string>
+		</dict>
+		<key>American</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00206</string>
+			<key>Plain Sawn</key>
+			<string>.00303</string>
+		</dict>
+		<key>Chilean</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00243</string>
+			<key>Plain Sawn</key>
+			<string>.00413</string>
+		</dict>
+		<key>Bolivian</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00197</string>
+			<key>Plain Sawn</key>
+			<string>.00234</string>
+		</dict>
+		<key>Andean</key>
+		<dict>
+			<key>Plain Sawn</key>
+			<string>.00302</string>
+		</dict>
+	</dict>
+	<key>Brazilian Teak</key>
+	<dict>
+		<key>Brazilian Teak</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00312</string>
+			<key>Plain Sawn</key>
+			<string>.00364</string>
+		</dict>
+	</dict>
+	<key>Brazilian Cherry</key>
+	<dict>
+		<key>Brazilian Cherry</key>
+		<dict>
+			<key>Plain Sawn</key>
+			<string>.003</string>
+		</dict>
+	</dict>
+	<key>Birch</key>
+	<dict>
+		<key>River</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00162</string>
+			<key>Plain Sawn</key>
+			<string>.00327</string>
+		</dict>
+		<key>Yellow</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00256</string>
+			<key>Plain Sawn</key>
+			<string>.00338</string>
+		</dict>
+		<key>Paper</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00219</string>
+			<key>Plain Sawn</key>
+			<string>.00304</string>
+		</dict>
+	</dict>
+	<key>Beech</key>
+	<dict>
+		<key>European</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00199</string>
+			<key>Plain Sawn</key>
+			<string>.00346</string>
+		</dict>
+		<key>American</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.0019</string>
+			<key>Plain Sawn</key>
+			<string>.00431</string>
+		</dict>
+	</dict>
+	<key>Basswood</key>
+	<dict>
+		<key>American</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.0023</string>
+			<key>Plain Sawn</key>
+			<string>.0033</string>
+		</dict>
+	</dict>
+	<key>Bamboo</key>
+	<dict>
+		<key>Carbonized</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00168</string>
+			<key>Plain Sawn</key>
+			<string>.00211</string>
+		</dict>
+		<key>Natural</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00168</string>
+			<key>Plain Sawn</key>
+			<string>.00211</string>
+		</dict>
+	</dict>
+	<key>Aspen</key>
+	<dict>
+		<key>Quaking</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00119</string>
+			<key>Plain Sawn</key>
+			<string>.00234</string>
+		</dict>
+	</dict>
+	<key>Ash</key>
+	<dict>
+		<key>Silky</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.0027</string>
+			<key>Plain Sawn</key>
+			<string>.00311</string>
+		</dict>
+		<key>Green</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00169</string>
+			<key>Plain Sawn</key>
+			<string>.00274</string>
+		</dict>
+		<key>White</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00169</string>
+			<key>Plain Sawn</key>
+			<string>.00274</string>
+		</dict>
+		<key>Black</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00172</string>
+			<key>Plain Sawn</key>
+			<string>.00274</string>
+		</dict>
+	</dict>
+	<key>Amendiom</key>
+	<dict>
+		<key>Amendiom</key>
+		<dict>
+			<key>Plain Sawn</key>
+			<string>.00251</string>
+			<key>Quarter Sawn</key>
+			<string>.00213</string>
+		</dict>
+	</dict>
+	<key>Aformosia</key>
+	<dict>
+		<key>Afrormosia</key>
+		<dict>
+			<key>Plain Sawn</key>
+			<string>.00329</string>
+			<key>Quarter Sawn</key>
+			<string>.0019</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

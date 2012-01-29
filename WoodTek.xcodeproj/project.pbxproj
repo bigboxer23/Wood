@@ -1,0 +1,708 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1D3623260D0F684500981E51 /* FlooringAppAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3623250D0F684500981E51 /* FlooringAppAppDelegate.m */; };
+		1D60589B0D05DD56006BFB54 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; };
+		1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
+		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
+		288765FD0DF74451002DB57D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 288765FC0DF74451002DB57D /* CoreGraphics.framework */; };
+		C9059AC711FE90A2008D6747 /* GappingCalculatorViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C9059AC511FE90A2008D6747 /* GappingCalculatorViewController.m */; };
+		C9059ACC11FE90C5008D6747 /* CrowningCalculatorViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C9059ACA11FE90C5008D6747 /* CrowningCalculatorViewController.m */; };
+		C9059AD111FE90D0008D6747 /* RoomExpansionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C9059ACF11FE90D0008D6747 /* RoomExpansionViewController.m */; };
+		C9059ADB11FE90ED008D6747 /* CuppingCalculatorViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C9059AD911FE90ED008D6747 /* CuppingCalculatorViewController.m */; };
+		C9059AE011FE910A008D6747 /* MoistureGainCalculatorViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C9059ADE11FE910A008D6747 /* MoistureGainCalculatorViewController.m */; };
+		C921FDAA12B5E91C00A36A93 /* DisclaimerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C921FDA812B5E91C00A36A93 /* DisclaimerViewController.m */; };
+		C9296C02132852CD006106CD /* AndirobaAndiroba.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C9296C01132852CD006106CD /* AndirobaAndiroba.jpg */; };
+		C9296C291328553C006106CD /* BrazilianCherry.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C9296C281328553C006106CD /* BrazilianCherry.jpg */; };
+		C9296C641328573F006106CD /* KempasKempas.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C9296C631328573F006106CD /* KempasKempas.jpg */; };
+		C9296C6A13285791006106CD /* SantosMahogany.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C9296C6913285791006106CD /* SantosMahogany.jpg */; };
+		C9296C6E132857CB006106CD /* TeakTeak.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C9296C6D132857CB006106CD /* TeakTeak.jpg */; };
+		C9296C7213285863006106CD /* WhiteOak (White).jpg in Resources */ = {isa = PBXBuildFile; fileRef = C9296C7113285863006106CD /* WhiteOak (White).jpg */; };
+		C92A883D14D0CD4F00ABB706 /* InstallMoistureCalculatorViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C92A883C14D0CD4F00ABB706 /* InstallMoistureCalculatorViewController.m */; };
+		C92A883F14D0D05F00ABB706 /* InstallMoistureHelpView.xib in Resources */ = {isa = PBXBuildFile; fileRef = C92A883E14D0D05F00ABB706 /* InstallMoistureHelpView.xib */; };
+		C92A884214D0D0D400ABB706 /* InstallMoistureHelpController.m in Sources */ = {isa = PBXBuildFile; fileRef = C92A884114D0D0D400ABB706 /* InstallMoistureHelpController.m */; };
+		C92A884414D0D45400ABB706 /* InstallMoistureCalculatorView.xib in Resources */ = {isa = PBXBuildFile; fileRef = C92A884314D0D45400ABB706 /* InstallMoistureCalculatorView.xib */; };
+		C94E84341311BCA100EB09E6 /* CrowningHelpController.xib in Resources */ = {isa = PBXBuildFile; fileRef = C94E842D1311BCA100EB09E6 /* CrowningHelpController.xib */; };
+		C94E84351311BCA100EB09E6 /* CuppingHelpController.xib in Resources */ = {isa = PBXBuildFile; fileRef = C94E842E1311BCA100EB09E6 /* CuppingHelpController.xib */; };
+		C94E84361311BCA100EB09E6 /* DisclaimerViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = C94E842F1311BCA100EB09E6 /* DisclaimerViewController.xib */; };
+		C94E84371311BCA100EB09E6 /* GappingHelpController.xib in Resources */ = {isa = PBXBuildFile; fileRef = C94E84301311BCA100EB09E6 /* GappingHelpController.xib */; };
+		C94E84381311BCA100EB09E6 /* LandingPageViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = C94E84311311BCA100EB09E6 /* LandingPageViewController.xib */; };
+		C94E84391311BCA100EB09E6 /* MoistureGainHelpController.xib in Resources */ = {isa = PBXBuildFile; fileRef = C94E84321311BCA100EB09E6 /* MoistureGainHelpController.xib */; };
+		C94E843A1311BCA100EB09E6 /* RoomExpansionHelpController.xib in Resources */ = {isa = PBXBuildFile; fileRef = C94E84331311BCA100EB09E6 /* RoomExpansionHelpController.xib */; };
+		C94E844F1311BF6300EB09E6 /* InformationTableViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = C94E844D1311BF6300EB09E6 /* InformationTableViewController.xib */; };
+		C94E84521311BFC000EB09E6 /* InformationTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C94E84511311BFC000EB09E6 /* InformationTableViewController.m */; };
+		C94E84C61311D10B00EB09E6 /* SubSpeciesInformationTableViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = C94E84C41311D10B00EB09E6 /* SubSpeciesInformationTableViewController.xib */; };
+		C95CFE2314B8A2650012A908 /* EMCCalculatorView.xib in Resources */ = {isa = PBXBuildFile; fileRef = C95CFE2214B8A2650012A908 /* EMCCalculatorView.xib */; };
+		C95CFE2614B8A2F40012A908 /* EMCCalculatorViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C95CFE2514B8A2F40012A908 /* EMCCalculatorViewController.m */; };
+		C97503F912DFD684008AD261 /* GappingHelpController.m in Sources */ = {isa = PBXBuildFile; fileRef = C97503F712DFD684008AD261 /* GappingHelpController.m */; };
+		C975043012DFD9E5008AD261 /* MoistureGainHelpController.m in Sources */ = {isa = PBXBuildFile; fileRef = C975042E12DFD9E5008AD261 /* MoistureGainHelpController.m */; };
+		C975047F12DFE171008AD261 /* RoomExpansionHelpController.m in Sources */ = {isa = PBXBuildFile; fileRef = C975047D12DFE171008AD261 /* RoomExpansionHelpController.m */; };
+		C975049A12DFE273008AD261 /* CuppingHelpController.m in Sources */ = {isa = PBXBuildFile; fileRef = C975049812DFE273008AD261 /* CuppingHelpController.m */; };
+		C97504AD12DFE328008AD261 /* CrowningHelpController.m in Sources */ = {isa = PBXBuildFile; fileRef = C97504AB12DFE328008AD261 /* CrowningHelpController.m */; };
+		C98EAEA013242EBD002F6E13 /* calcBackgroundImage.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C98EAE9F13242EBD002F6E13 /* calcBackgroundImage.jpg */; };
+		C992715E131F0D0F00183CBB /* whiteDot.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C992715D131F0D0F00183CBB /* whiteDot.jpg */; };
+		C9AD4357123C4C9700777280 /* NumberKeypadDecimalPoint.m in Sources */ = {isa = PBXBuildFile; fileRef = C9AD4356123C4C9700777280 /* NumberKeypadDecimalPoint.m */; };
+		C9B6B05112B9CC91002DB92D /* LandingPageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C9B6B04F12B9CC91002DB92D /* LandingPageViewController.m */; };
+		C9C0A5711314A57C00CDD158 /* noImage.png in Resources */ = {isa = PBXBuildFile; fileRef = C9C0A5701314A57C00CDD158 /* noImage.png */; };
+		C9D5C4C312AF2CDC002E01DE /* WoodTek57x57.png in Resources */ = {isa = PBXBuildFile; fileRef = C9D5C4C112AF2CDC002E01DE /* WoodTek57x57.png */; };
+		C9D5C4D112AF2F4B002E01DE /* WoodTek29x29.png in Resources */ = {isa = PBXBuildFile; fileRef = C9D5C4CE12AF2F4B002E01DE /* WoodTek29x29.png */; };
+		C9D5C4D212AF2F4B002E01DE /* WoodTek58x58.png in Resources */ = {isa = PBXBuildFile; fileRef = C9D5C4CF12AF2F4B002E01DE /* WoodTek58x58.png */; };
+		C9D5C4D312AF2F4B002E01DE /* WoodTek114x114.png in Resources */ = {isa = PBXBuildFile; fileRef = C9D5C4D012AF2F4B002E01DE /* WoodTek114x114.png */; };
+		C9D5C4DA12AF358C002E01DE /* myLaunchImage.png in Resources */ = {isa = PBXBuildFile; fileRef = C9D5C4D812AF358C002E01DE /* myLaunchImage.png */; };
+		C9D5C4DB12AF358C002E01DE /* myLaunchImage@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C9D5C4D912AF358C002E01DE /* myLaunchImage@2x.png */; };
+		C9D6595A1315DBDA00520A57 /* WoodImageDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C9D659581315DBDA00520A57 /* WoodImageDetailViewController.m */; };
+		C9D6595E1315DC0E00520A57 /* WoodImageDetailViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = C9D6595D1315DC0E00520A57 /* WoodImageDetailViewController.xib */; };
+		C9D65A631315EC5C00520A57 /* CalculatorTableViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = C9D65A611315EC5C00520A57 /* CalculatorTableViewController.xib */; };
+		C9D65A661315EC7F00520A57 /* CalculatorTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C9D65A651315EC7F00520A57 /* CalculatorTableViewController.m */; };
+		C9DBC12C13117EB60021A1BC /* backgroundImage.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C9DBC12013117EB60021A1BC /* backgroundImage.jpg */; };
+		C9DBC12D13117EB60021A1BC /* backgroundImage.png in Resources */ = {isa = PBXBuildFile; fileRef = C9DBC12113117EB60021A1BC /* backgroundImage.png */; };
+		C9DBC12E13117EB60021A1BC /* buttonBackground.png in Resources */ = {isa = PBXBuildFile; fileRef = C9DBC12213117EB60021A1BC /* buttonBackground.png */; };
+		C9DBC12F13117EB60021A1BC /* crown-tab.png in Resources */ = {isa = PBXBuildFile; fileRef = C9DBC12313117EB60021A1BC /* crown-tab.png */; };
+		C9DBC13013117EB60021A1BC /* cupping-tab.png in Resources */ = {isa = PBXBuildFile; fileRef = C9DBC12413117EB60021A1BC /* cupping-tab.png */; };
+		C9DBC13113117EB60021A1BC /* data.plist in Resources */ = {isa = PBXBuildFile; fileRef = C9DBC12513117EB60021A1BC /* data.plist */; };
+		C9DBC13213117EB60021A1BC /* disclaimerBackground.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C9DBC12613117EB60021A1BC /* disclaimerBackground.jpg */; };
+		C9DBC13313117EB60021A1BC /* disclaimerHeader.png in Resources */ = {isa = PBXBuildFile; fileRef = C9DBC12713117EB60021A1BC /* disclaimerHeader.png */; };
+		C9DBC13413117EB60021A1BC /* gap-tab.png in Resources */ = {isa = PBXBuildFile; fileRef = C9DBC12813117EB60021A1BC /* gap-tab.png */; };
+		C9DBC13513117EB60021A1BC /* moisture-drop.png in Resources */ = {isa = PBXBuildFile; fileRef = C9DBC12913117EB60021A1BC /* moisture-drop.png */; };
+		C9DBC13613117EB60021A1BC /* room-exp-tab.png in Resources */ = {isa = PBXBuildFile; fileRef = C9DBC12A13117EB60021A1BC /* room-exp-tab.png */; };
+		C9DBC13713117EB60021A1BC /* woodTekLogo.png in Resources */ = {isa = PBXBuildFile; fileRef = C9DBC12B13117EB60021A1BC /* woodTekLogo.png */; };
+		C9DBC13C13117F0F0021A1BC /* decimalKeyDownBackground.png in Resources */ = {isa = PBXBuildFile; fileRef = C9DBC13B13117F0F0021A1BC /* decimalKeyDownBackground.png */; };
+		C9DBC2591311BC4D0021A1BC /* CrowningCalculatorView.xib in Resources */ = {isa = PBXBuildFile; fileRef = C9DBC2511311BC4D0021A1BC /* CrowningCalculatorView.xib */; };
+		C9DBC25A1311BC4D0021A1BC /* CuppingCalculatorView.xib in Resources */ = {isa = PBXBuildFile; fileRef = C9DBC2521311BC4D0021A1BC /* CuppingCalculatorView.xib */; };
+		C9DBC25B1311BC4D0021A1BC /* GappingCalculatorView.xib in Resources */ = {isa = PBXBuildFile; fileRef = C9DBC2531311BC4D0021A1BC /* GappingCalculatorView.xib */; };
+		C9DBC25C1311BC4D0021A1BC /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = C9DBC2541311BC4D0021A1BC /* MainWindow.xib */; };
+		C9DBC25E1311BC4D0021A1BC /* MoistureGainCalculator.xib in Resources */ = {isa = PBXBuildFile; fileRef = C9DBC2561311BC4D0021A1BC /* MoistureGainCalculator.xib */; };
+		C9DBC2601311BC4D0021A1BC /* RoomExpansionView.xib in Resources */ = {isa = PBXBuildFile; fileRef = C9DBC2581311BC4D0021A1BC /* RoomExpansionView.xib */; };
+		C9E3BDC81311D39D00B6B7BB /* SubSpeciesInformationTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C9E3BDC71311D39D00B6B7BB /* SubSpeciesInformationTableViewController.m */; };
+		C9E3BE461311EE6800B6B7BB /* DetailsViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = C9E3BE441311EE6800B6B7BB /* DetailsViewController.xib */; };
+		C9E3BE491311EE8600B6B7BB /* DetailsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C9E3BE481311EE8600B6B7BB /* DetailsViewController.m */; };
+		C9FCBCC7123F1AE80087AAFA /* AbstractCalculatorViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C9FCBCC6123F1AE80087AAFA /* AbstractCalculatorViewController.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		1D30AB110D05D00D00671497 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		1D3623240D0F684500981E51 /* FlooringAppAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FlooringAppAppDelegate.h; sourceTree = "<group>"; };
+		1D3623250D0F684500981E51 /* FlooringAppAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FlooringAppAppDelegate.m; sourceTree = "<group>"; };
+		1D6058910D05DD3D006BFB54 /* WoodTek.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WoodTek.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		288765FC0DF74451002DB57D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		32CA4F630368D1EE00C91783 /* WoodTek_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WoodTek_Prefix.pch; sourceTree = "<group>"; };
+		8D1107310486CEB800E47090 /* WoodTek-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "WoodTek-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
+		C9059AC411FE90A2008D6747 /* GappingCalculatorViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GappingCalculatorViewController.h; sourceTree = "<group>"; };
+		C9059AC511FE90A2008D6747 /* GappingCalculatorViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GappingCalculatorViewController.m; sourceTree = "<group>"; };
+		C9059AC911FE90C5008D6747 /* CrowningCalculatorViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CrowningCalculatorViewController.h; sourceTree = "<group>"; };
+		C9059ACA11FE90C5008D6747 /* CrowningCalculatorViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CrowningCalculatorViewController.m; sourceTree = "<group>"; };
+		C9059ACE11FE90D0008D6747 /* RoomExpansionViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RoomExpansionViewController.h; sourceTree = "<group>"; };
+		C9059ACF11FE90D0008D6747 /* RoomExpansionViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RoomExpansionViewController.m; sourceTree = "<group>"; };
+		C9059AD811FE90ED008D6747 /* CuppingCalculatorViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CuppingCalculatorViewController.h; sourceTree = "<group>"; };
+		C9059AD911FE90ED008D6747 /* CuppingCalculatorViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CuppingCalculatorViewController.m; sourceTree = "<group>"; };
+		C9059ADD11FE910A008D6747 /* MoistureGainCalculatorViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MoistureGainCalculatorViewController.h; sourceTree = "<group>"; };
+		C9059ADE11FE910A008D6747 /* MoistureGainCalculatorViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MoistureGainCalculatorViewController.m; sourceTree = "<group>"; };
+		C921FDA712B5E91C00A36A93 /* DisclaimerViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DisclaimerViewController.h; sourceTree = "<group>"; };
+		C921FDA812B5E91C00A36A93 /* DisclaimerViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DisclaimerViewController.m; sourceTree = "<group>"; };
+		C9296C01132852CD006106CD /* AndirobaAndiroba.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = AndirobaAndiroba.jpg; sourceTree = "<group>"; };
+		C9296C281328553C006106CD /* BrazilianCherry.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = BrazilianCherry.jpg; sourceTree = "<group>"; };
+		C9296C631328573F006106CD /* KempasKempas.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = KempasKempas.jpg; sourceTree = "<group>"; };
+		C9296C6913285791006106CD /* SantosMahogany.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SantosMahogany.jpg; sourceTree = "<group>"; };
+		C9296C6D132857CB006106CD /* TeakTeak.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = TeakTeak.jpg; sourceTree = "<group>"; };
+		C9296C7113285863006106CD /* WhiteOak (White).jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "WhiteOak (White).jpg"; sourceTree = "<group>"; };
+		C92A883B14D0CD4F00ABB706 /* InstallMoistureCalculatorViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = InstallMoistureCalculatorViewController.h; sourceTree = "<group>"; };
+		C92A883C14D0CD4F00ABB706 /* InstallMoistureCalculatorViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = InstallMoistureCalculatorViewController.m; sourceTree = "<group>"; };
+		C92A883E14D0D05F00ABB706 /* InstallMoistureHelpView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = InstallMoistureHelpView.xib; sourceTree = "<group>"; };
+		C92A884014D0D0D400ABB706 /* InstallMoistureHelpController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = InstallMoistureHelpController.h; sourceTree = "<group>"; };
+		C92A884114D0D0D400ABB706 /* InstallMoistureHelpController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = InstallMoistureHelpController.m; sourceTree = "<group>"; };
+		C92A884314D0D45400ABB706 /* InstallMoistureCalculatorView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = InstallMoistureCalculatorView.xib; sourceTree = "<group>"; };
+		C94E842D1311BCA100EB09E6 /* CrowningHelpController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CrowningHelpController.xib; sourceTree = "<group>"; };
+		C94E842E1311BCA100EB09E6 /* CuppingHelpController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CuppingHelpController.xib; sourceTree = "<group>"; };
+		C94E842F1311BCA100EB09E6 /* DisclaimerViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = DisclaimerViewController.xib; sourceTree = "<group>"; };
+		C94E84301311BCA100EB09E6 /* GappingHelpController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = GappingHelpController.xib; sourceTree = "<group>"; };
+		C94E84311311BCA100EB09E6 /* LandingPageViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = LandingPageViewController.xib; sourceTree = "<group>"; };
+		C94E84321311BCA100EB09E6 /* MoistureGainHelpController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MoistureGainHelpController.xib; sourceTree = "<group>"; };
+		C94E84331311BCA100EB09E6 /* RoomExpansionHelpController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = RoomExpansionHelpController.xib; sourceTree = "<group>"; };
+		C94E844D1311BF6300EB09E6 /* InformationTableViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = InformationTableViewController.xib; sourceTree = "<group>"; };
+		C94E84501311BFC000EB09E6 /* InformationTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = InformationTableViewController.h; sourceTree = "<group>"; };
+		C94E84511311BFC000EB09E6 /* InformationTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = InformationTableViewController.m; sourceTree = "<group>"; };
+		C94E84C41311D10B00EB09E6 /* SubSpeciesInformationTableViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = SubSpeciesInformationTableViewController.xib; sourceTree = "<group>"; };
+		C95CFE2214B8A2650012A908 /* EMCCalculatorView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = EMCCalculatorView.xib; sourceTree = "<group>"; };
+		C95CFE2414B8A2F40012A908 /* EMCCalculatorViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EMCCalculatorViewController.h; sourceTree = "<group>"; };
+		C95CFE2514B8A2F40012A908 /* EMCCalculatorViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EMCCalculatorViewController.m; sourceTree = "<group>"; };
+		C97503F612DFD684008AD261 /* GappingHelpController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GappingHelpController.h; sourceTree = "<group>"; };
+		C97503F712DFD684008AD261 /* GappingHelpController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GappingHelpController.m; sourceTree = "<group>"; };
+		C975042D12DFD9E5008AD261 /* MoistureGainHelpController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MoistureGainHelpController.h; sourceTree = "<group>"; };
+		C975042E12DFD9E5008AD261 /* MoistureGainHelpController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MoistureGainHelpController.m; sourceTree = "<group>"; };
+		C975047C12DFE171008AD261 /* RoomExpansionHelpController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RoomExpansionHelpController.h; sourceTree = "<group>"; };
+		C975047D12DFE171008AD261 /* RoomExpansionHelpController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RoomExpansionHelpController.m; sourceTree = "<group>"; };
+		C975049712DFE273008AD261 /* CuppingHelpController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CuppingHelpController.h; sourceTree = "<group>"; };
+		C975049812DFE273008AD261 /* CuppingHelpController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CuppingHelpController.m; sourceTree = "<group>"; };
+		C97504AA12DFE328008AD261 /* CrowningHelpController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CrowningHelpController.h; sourceTree = "<group>"; };
+		C97504AB12DFE328008AD261 /* CrowningHelpController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CrowningHelpController.m; sourceTree = "<group>"; };
+		C987051812EFC8CA003281F0 /* Entitlements.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Entitlements.plist; sourceTree = "<group>"; };
+		C98EAE9F13242EBD002F6E13 /* calcBackgroundImage.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = calcBackgroundImage.jpg; sourceTree = "<group>"; };
+		C992715D131F0D0F00183CBB /* whiteDot.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = whiteDot.jpg; sourceTree = "<group>"; };
+		C9AD4355123C4C9700777280 /* NumberKeypadDecimalPoint.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NumberKeypadDecimalPoint.h; sourceTree = "<group>"; };
+		C9AD4356123C4C9700777280 /* NumberKeypadDecimalPoint.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NumberKeypadDecimalPoint.m; sourceTree = "<group>"; };
+		C9B6B04E12B9CC91002DB92D /* LandingPageViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LandingPageViewController.h; sourceTree = "<group>"; };
+		C9B6B04F12B9CC91002DB92D /* LandingPageViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LandingPageViewController.m; sourceTree = "<group>"; };
+		C9C0A5701314A57C00CDD158 /* noImage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = noImage.png; sourceTree = "<group>"; };
+		C9D5C4C112AF2CDC002E01DE /* WoodTek57x57.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = WoodTek57x57.png; sourceTree = "<group>"; };
+		C9D5C4CE12AF2F4B002E01DE /* WoodTek29x29.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = WoodTek29x29.png; sourceTree = "<group>"; };
+		C9D5C4CF12AF2F4B002E01DE /* WoodTek58x58.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = WoodTek58x58.png; sourceTree = "<group>"; };
+		C9D5C4D012AF2F4B002E01DE /* WoodTek114x114.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = WoodTek114x114.png; sourceTree = "<group>"; };
+		C9D5C4D812AF358C002E01DE /* myLaunchImage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = myLaunchImage.png; sourceTree = "<group>"; };
+		C9D5C4D912AF358C002E01DE /* myLaunchImage@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "myLaunchImage@2x.png"; sourceTree = "<group>"; };
+		C9D659571315DBDA00520A57 /* WoodImageDetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WoodImageDetailViewController.h; sourceTree = "<group>"; };
+		C9D659581315DBDA00520A57 /* WoodImageDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WoodImageDetailViewController.m; sourceTree = "<group>"; };
+		C9D6595D1315DC0E00520A57 /* WoodImageDetailViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = WoodImageDetailViewController.xib; sourceTree = "<group>"; };
+		C9D65A611315EC5C00520A57 /* CalculatorTableViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CalculatorTableViewController.xib; sourceTree = "<group>"; };
+		C9D65A641315EC7F00520A57 /* CalculatorTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CalculatorTableViewController.h; sourceTree = "<group>"; };
+		C9D65A651315EC7F00520A57 /* CalculatorTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CalculatorTableViewController.m; sourceTree = "<group>"; };
+		C9DBC12013117EB60021A1BC /* backgroundImage.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = backgroundImage.jpg; sourceTree = "<group>"; };
+		C9DBC12113117EB60021A1BC /* backgroundImage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = backgroundImage.png; sourceTree = "<group>"; };
+		C9DBC12213117EB60021A1BC /* buttonBackground.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = buttonBackground.png; sourceTree = "<group>"; };
+		C9DBC12313117EB60021A1BC /* crown-tab.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "crown-tab.png"; sourceTree = "<group>"; };
+		C9DBC12413117EB60021A1BC /* cupping-tab.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "cupping-tab.png"; sourceTree = "<group>"; };
+		C9DBC12513117EB60021A1BC /* data.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = data.plist; sourceTree = "<group>"; };
+		C9DBC12613117EB60021A1BC /* disclaimerBackground.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = disclaimerBackground.jpg; sourceTree = "<group>"; };
+		C9DBC12713117EB60021A1BC /* disclaimerHeader.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = disclaimerHeader.png; sourceTree = "<group>"; };
+		C9DBC12813117EB60021A1BC /* gap-tab.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "gap-tab.png"; sourceTree = "<group>"; };
+		C9DBC12913117EB60021A1BC /* moisture-drop.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "moisture-drop.png"; sourceTree = "<group>"; };
+		C9DBC12A13117EB60021A1BC /* room-exp-tab.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "room-exp-tab.png"; sourceTree = "<group>"; };
+		C9DBC12B13117EB60021A1BC /* woodTekLogo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = woodTekLogo.png; sourceTree = "<group>"; };
+		C9DBC13B13117F0F0021A1BC /* decimalKeyDownBackground.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = decimalKeyDownBackground.png; sourceTree = "<group>"; };
+		C9DBC2511311BC4D0021A1BC /* CrowningCalculatorView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CrowningCalculatorView.xib; sourceTree = "<group>"; };
+		C9DBC2521311BC4D0021A1BC /* CuppingCalculatorView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CuppingCalculatorView.xib; sourceTree = "<group>"; };
+		C9DBC2531311BC4D0021A1BC /* GappingCalculatorView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = GappingCalculatorView.xib; sourceTree = "<group>"; };
+		C9DBC2541311BC4D0021A1BC /* MainWindow.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MainWindow.xib; sourceTree = "<group>"; };
+		C9DBC2561311BC4D0021A1BC /* MoistureGainCalculator.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MoistureGainCalculator.xib; sourceTree = "<group>"; };
+		C9DBC2581311BC4D0021A1BC /* RoomExpansionView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = RoomExpansionView.xib; sourceTree = "<group>"; };
+		C9E3BDC61311D39D00B6B7BB /* SubSpeciesInformationTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SubSpeciesInformationTableViewController.h; sourceTree = "<group>"; };
+		C9E3BDC71311D39D00B6B7BB /* SubSpeciesInformationTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SubSpeciesInformationTableViewController.m; sourceTree = "<group>"; };
+		C9E3BE441311EE6800B6B7BB /* DetailsViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = DetailsViewController.xib; sourceTree = "<group>"; };
+		C9E3BE471311EE8600B6B7BB /* DetailsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DetailsViewController.h; sourceTree = "<group>"; };
+		C9E3BE481311EE8600B6B7BB /* DetailsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DetailsViewController.m; sourceTree = "<group>"; };
+		C9FCBCC5123F1AE80087AAFA /* AbstractCalculatorViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AbstractCalculatorViewController.h; sourceTree = "<group>"; };
+		C9FCBCC6123F1AE80087AAFA /* AbstractCalculatorViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AbstractCalculatorViewController.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1D60588F0D05DD3D006BFB54 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */,
+				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
+				288765FD0DF74451002DB57D /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		080E96DDFE201D6D7F000001 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				C992706D131DDA5500183CBB /* disclaimer */,
+				C992706C131DDA4600183CBB /* information */,
+				C992706A131DD9F100183CBB /* calculator */,
+				C9B6B04E12B9CC91002DB92D /* LandingPageViewController.h */,
+				C9B6B04F12B9CC91002DB92D /* LandingPageViewController.m */,
+				1D3623240D0F684500981E51 /* FlooringAppAppDelegate.h */,
+				1D3623250D0F684500981E51 /* FlooringAppAppDelegate.m */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		19C28FACFE9D520D11CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1D6058910D05DD3D006BFB54 /* WoodTek.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
+			isa = PBXGroup;
+			children = (
+				C9DBC11F13117EB60021A1BC /* data */,
+				C9DDF58313117DE000455CFD /* xibs */,
+				080E96DDFE201D6D7F000001 /* Classes */,
+				29B97315FDCFA39411CA2CEA /* Other Sources */,
+				29B97317FDCFA39411CA2CEA /* Resources */,
+				29B97323FDCFA39411CA2CEA /* Frameworks */,
+				19C28FACFE9D520D11CA2CBB /* Products */,
+				C987051812EFC8CA003281F0 /* Entitlements.plist */,
+			);
+			name = CustomTemplate;
+			sourceTree = "<group>";
+		};
+		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				32CA4F630368D1EE00C91783 /* WoodTek_Prefix.pch */,
+				29B97316FDCFA39411CA2CEA /* main.m */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		29B97317FDCFA39411CA2CEA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				C9D5C4CE12AF2F4B002E01DE /* WoodTek29x29.png */,
+				C9D5C4CF12AF2F4B002E01DE /* WoodTek58x58.png */,
+				C9D5C4D012AF2F4B002E01DE /* WoodTek114x114.png */,
+				C9D5C4C112AF2CDC002E01DE /* WoodTek57x57.png */,
+				8D1107310486CEB800E47090 /* WoodTek-Info.plist */,
+				C9D5C4D812AF358C002E01DE /* myLaunchImage.png */,
+				C9D5C4D912AF358C002E01DE /* myLaunchImage@2x.png */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1DF5F4DF0D08C38300B7A737 /* UIKit.framework */,
+				1D30AB110D05D00D00671497 /* Foundation.framework */,
+				288765FC0DF74451002DB57D /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		C9927069131DD9C500183CBB /* HelpControllers */ = {
+			isa = PBXGroup;
+			children = (
+				C975042D12DFD9E5008AD261 /* MoistureGainHelpController.h */,
+				C97504AA12DFE328008AD261 /* CrowningHelpController.h */,
+				C97504AB12DFE328008AD261 /* CrowningHelpController.m */,
+				C975049712DFE273008AD261 /* CuppingHelpController.h */,
+				C975049812DFE273008AD261 /* CuppingHelpController.m */,
+				C975047C12DFE171008AD261 /* RoomExpansionHelpController.h */,
+				C975047D12DFE171008AD261 /* RoomExpansionHelpController.m */,
+				C975042E12DFD9E5008AD261 /* MoistureGainHelpController.m */,
+				C97503F612DFD684008AD261 /* GappingHelpController.h */,
+				C97503F712DFD684008AD261 /* GappingHelpController.m */,
+				C92A884014D0D0D400ABB706 /* InstallMoistureHelpController.h */,
+				C92A884114D0D0D400ABB706 /* InstallMoistureHelpController.m */,
+			);
+			name = HelpControllers;
+			sourceTree = "<group>";
+		};
+		C992706A131DD9F100183CBB /* calculator */ = {
+			isa = PBXGroup;
+			children = (
+				C992706B131DDA3100183CBB /* utility */,
+				C9D65A641315EC7F00520A57 /* CalculatorTableViewController.h */,
+				C9D65A651315EC7F00520A57 /* CalculatorTableViewController.m */,
+				C9059AC411FE90A2008D6747 /* GappingCalculatorViewController.h */,
+				C9059AC511FE90A2008D6747 /* GappingCalculatorViewController.m */,
+				C9059AC911FE90C5008D6747 /* CrowningCalculatorViewController.h */,
+				C9059ACA11FE90C5008D6747 /* CrowningCalculatorViewController.m */,
+				C95CFE2414B8A2F40012A908 /* EMCCalculatorViewController.h */,
+				C95CFE2514B8A2F40012A908 /* EMCCalculatorViewController.m */,
+				C9059ACE11FE90D0008D6747 /* RoomExpansionViewController.h */,
+				C9059ACF11FE90D0008D6747 /* RoomExpansionViewController.m */,
+				C9059AD811FE90ED008D6747 /* CuppingCalculatorViewController.h */,
+				C9059AD911FE90ED008D6747 /* CuppingCalculatorViewController.m */,
+				C9059ADD11FE910A008D6747 /* MoistureGainCalculatorViewController.h */,
+				C9059ADE11FE910A008D6747 /* MoistureGainCalculatorViewController.m */,
+				C9FCBCC5123F1AE80087AAFA /* AbstractCalculatorViewController.h */,
+				C9FCBCC6123F1AE80087AAFA /* AbstractCalculatorViewController.m */,
+				C9927069131DD9C500183CBB /* HelpControllers */,
+				C92A883B14D0CD4F00ABB706 /* InstallMoistureCalculatorViewController.h */,
+				C92A883C14D0CD4F00ABB706 /* InstallMoistureCalculatorViewController.m */,
+			);
+			name = calculator;
+			sourceTree = "<group>";
+		};
+		C992706B131DDA3100183CBB /* utility */ = {
+			isa = PBXGroup;
+			children = (
+				C9AD4355123C4C9700777280 /* NumberKeypadDecimalPoint.h */,
+				C9AD4356123C4C9700777280 /* NumberKeypadDecimalPoint.m */,
+			);
+			name = utility;
+			sourceTree = "<group>";
+		};
+		C992706C131DDA4600183CBB /* information */ = {
+			isa = PBXGroup;
+			children = (
+				C9D659571315DBDA00520A57 /* WoodImageDetailViewController.h */,
+				C9D659581315DBDA00520A57 /* WoodImageDetailViewController.m */,
+				C9E3BE471311EE8600B6B7BB /* DetailsViewController.h */,
+				C9E3BE481311EE8600B6B7BB /* DetailsViewController.m */,
+				C9E3BDC61311D39D00B6B7BB /* SubSpeciesInformationTableViewController.h */,
+				C9E3BDC71311D39D00B6B7BB /* SubSpeciesInformationTableViewController.m */,
+				C94E84501311BFC000EB09E6 /* InformationTableViewController.h */,
+				C94E84511311BFC000EB09E6 /* InformationTableViewController.m */,
+			);
+			name = information;
+			sourceTree = "<group>";
+		};
+		C992706D131DDA5500183CBB /* disclaimer */ = {
+			isa = PBXGroup;
+			children = (
+				C921FDA712B5E91C00A36A93 /* DisclaimerViewController.h */,
+				C921FDA812B5E91C00A36A93 /* DisclaimerViewController.m */,
+			);
+			name = disclaimer;
+			sourceTree = "<group>";
+		};
+		C9927098131DDBF800183CBB /* calculator */ = {
+			isa = PBXGroup;
+			children = (
+				C92A884314D0D45400ABB706 /* InstallMoistureCalculatorView.xib */,
+				C95CFE2214B8A2650012A908 /* EMCCalculatorView.xib */,
+				C9DBC2511311BC4D0021A1BC /* CrowningCalculatorView.xib */,
+				C9DBC2521311BC4D0021A1BC /* CuppingCalculatorView.xib */,
+				C9DBC2531311BC4D0021A1BC /* GappingCalculatorView.xib */,
+				C9DBC2581311BC4D0021A1BC /* RoomExpansionView.xib */,
+				C9DBC2561311BC4D0021A1BC /* MoistureGainCalculator.xib */,
+				C9927099131DDBFE00183CBB /* help */,
+			);
+			name = calculator;
+			sourceTree = "<group>";
+		};
+		C9927099131DDBFE00183CBB /* help */ = {
+			isa = PBXGroup;
+			children = (
+				C92A883E14D0D05F00ABB706 /* InstallMoistureHelpView.xib */,
+				C94E842D1311BCA100EB09E6 /* CrowningHelpController.xib */,
+				C94E842E1311BCA100EB09E6 /* CuppingHelpController.xib */,
+				C94E84301311BCA100EB09E6 /* GappingHelpController.xib */,
+				C94E84321311BCA100EB09E6 /* MoistureGainHelpController.xib */,
+				C94E84331311BCA100EB09E6 /* RoomExpansionHelpController.xib */,
+			);
+			name = help;
+			sourceTree = "<group>";
+		};
+		C9DBC11F13117EB60021A1BC /* data */ = {
+			isa = PBXGroup;
+			children = (
+				C98EAE9F13242EBD002F6E13 /* calcBackgroundImage.jpg */,
+				C992715D131F0D0F00183CBB /* whiteDot.jpg */,
+				C9C0A5701314A57C00CDD158 /* noImage.png */,
+				C9E3BE9B1312066200B6B7BB /* woods */,
+				C9DBC13B13117F0F0021A1BC /* decimalKeyDownBackground.png */,
+				C9DBC12013117EB60021A1BC /* backgroundImage.jpg */,
+				C9DBC12113117EB60021A1BC /* backgroundImage.png */,
+				C9DBC12213117EB60021A1BC /* buttonBackground.png */,
+				C9DBC12313117EB60021A1BC /* crown-tab.png */,
+				C9DBC12413117EB60021A1BC /* cupping-tab.png */,
+				C9DBC12513117EB60021A1BC /* data.plist */,
+				C9DBC12613117EB60021A1BC /* disclaimerBackground.jpg */,
+				C9DBC12713117EB60021A1BC /* disclaimerHeader.png */,
+				C9DBC12813117EB60021A1BC /* gap-tab.png */,
+				C9DBC12913117EB60021A1BC /* moisture-drop.png */,
+				C9DBC12A13117EB60021A1BC /* room-exp-tab.png */,
+				C9DBC12B13117EB60021A1BC /* woodTekLogo.png */,
+			);
+			path = data;
+			sourceTree = "<group>";
+		};
+		C9DDF58313117DE000455CFD /* xibs */ = {
+			isa = PBXGroup;
+			children = (
+				C9927098131DDBF800183CBB /* calculator */,
+				C9DBC2541311BC4D0021A1BC /* MainWindow.xib */,
+				C9D6595D1315DC0E00520A57 /* WoodImageDetailViewController.xib */,
+				C94E84311311BCA100EB09E6 /* LandingPageViewController.xib */,
+				C94E844D1311BF6300EB09E6 /* InformationTableViewController.xib */,
+				C94E84C41311D10B00EB09E6 /* SubSpeciesInformationTableViewController.xib */,
+				C9E3BE441311EE6800B6B7BB /* DetailsViewController.xib */,
+				C9D65A611315EC5C00520A57 /* CalculatorTableViewController.xib */,
+				C94E842F1311BCA100EB09E6 /* DisclaimerViewController.xib */,
+			);
+			path = xibs;
+			sourceTree = "<group>";
+		};
+		C9E3BE9B1312066200B6B7BB /* woods */ = {
+			isa = PBXGroup;
+			children = (
+				C9296C7113285863006106CD /* WhiteOak (White).jpg */,
+				C9296C6D132857CB006106CD /* TeakTeak.jpg */,
+				C9296C6913285791006106CD /* SantosMahogany.jpg */,
+				C9296C631328573F006106CD /* KempasKempas.jpg */,
+				C9296C281328553C006106CD /* BrazilianCherry.jpg */,
+				C9296C01132852CD006106CD /* AndirobaAndiroba.jpg */,
+			);
+			path = woods;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1D6058900D05DD3D006BFB54 /* WoodTek */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "WoodTek" */;
+			buildPhases = (
+				1D60588D0D05DD3D006BFB54 /* Resources */,
+				1D60588E0D05DD3D006BFB54 /* Sources */,
+				1D60588F0D05DD3D006BFB54 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = WoodTek;
+			productName = FlooringApp;
+			productReference = 1D6058910D05DD3D006BFB54 /* WoodTek.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		29B97313FDCFA39411CA2CEA /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0420;
+			};
+			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "WoodTek" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 1;
+			knownRegions = (
+				English,
+				Japanese,
+				French,
+				German,
+			);
+			mainGroup = 29B97314FDCFA39411CA2CEA /* CustomTemplate */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1D6058900D05DD3D006BFB54 /* WoodTek */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1D60588D0D05DD3D006BFB54 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C9D5C4C312AF2CDC002E01DE /* WoodTek57x57.png in Resources */,
+				C9D5C4D112AF2F4B002E01DE /* WoodTek29x29.png in Resources */,
+				C9D5C4D212AF2F4B002E01DE /* WoodTek58x58.png in Resources */,
+				C9D5C4D312AF2F4B002E01DE /* WoodTek114x114.png in Resources */,
+				C9D5C4DA12AF358C002E01DE /* myLaunchImage.png in Resources */,
+				C9D5C4DB12AF358C002E01DE /* myLaunchImage@2x.png in Resources */,
+				C9DBC12C13117EB60021A1BC /* backgroundImage.jpg in Resources */,
+				C9DBC12D13117EB60021A1BC /* backgroundImage.png in Resources */,
+				C9DBC12E13117EB60021A1BC /* buttonBackground.png in Resources */,
+				C9DBC12F13117EB60021A1BC /* crown-tab.png in Resources */,
+				C9DBC13013117EB60021A1BC /* cupping-tab.png in Resources */,
+				C9DBC13113117EB60021A1BC /* data.plist in Resources */,
+				C9DBC13213117EB60021A1BC /* disclaimerBackground.jpg in Resources */,
+				C9DBC13313117EB60021A1BC /* disclaimerHeader.png in Resources */,
+				C9DBC13413117EB60021A1BC /* gap-tab.png in Resources */,
+				C9DBC13513117EB60021A1BC /* moisture-drop.png in Resources */,
+				C9DBC13613117EB60021A1BC /* room-exp-tab.png in Resources */,
+				C9DBC13713117EB60021A1BC /* woodTekLogo.png in Resources */,
+				C9DBC13C13117F0F0021A1BC /* decimalKeyDownBackground.png in Resources */,
+				C9DBC2591311BC4D0021A1BC /* CrowningCalculatorView.xib in Resources */,
+				C9DBC25A1311BC4D0021A1BC /* CuppingCalculatorView.xib in Resources */,
+				C9DBC25B1311BC4D0021A1BC /* GappingCalculatorView.xib in Resources */,
+				C9DBC25C1311BC4D0021A1BC /* MainWindow.xib in Resources */,
+				C9DBC25E1311BC4D0021A1BC /* MoistureGainCalculator.xib in Resources */,
+				C9DBC2601311BC4D0021A1BC /* RoomExpansionView.xib in Resources */,
+				C94E84341311BCA100EB09E6 /* CrowningHelpController.xib in Resources */,
+				C94E84351311BCA100EB09E6 /* CuppingHelpController.xib in Resources */,
+				C94E84361311BCA100EB09E6 /* DisclaimerViewController.xib in Resources */,
+				C94E84371311BCA100EB09E6 /* GappingHelpController.xib in Resources */,
+				C94E84381311BCA100EB09E6 /* LandingPageViewController.xib in Resources */,
+				C94E84391311BCA100EB09E6 /* MoistureGainHelpController.xib in Resources */,
+				C94E843A1311BCA100EB09E6 /* RoomExpansionHelpController.xib in Resources */,
+				C94E844F1311BF6300EB09E6 /* InformationTableViewController.xib in Resources */,
+				C94E84C61311D10B00EB09E6 /* SubSpeciesInformationTableViewController.xib in Resources */,
+				C9E3BE461311EE6800B6B7BB /* DetailsViewController.xib in Resources */,
+				C9C0A5711314A57C00CDD158 /* noImage.png in Resources */,
+				C9D6595E1315DC0E00520A57 /* WoodImageDetailViewController.xib in Resources */,
+				C9D65A631315EC5C00520A57 /* CalculatorTableViewController.xib in Resources */,
+				C992715E131F0D0F00183CBB /* whiteDot.jpg in Resources */,
+				C98EAEA013242EBD002F6E13 /* calcBackgroundImage.jpg in Resources */,
+				C9296C02132852CD006106CD /* AndirobaAndiroba.jpg in Resources */,
+				C9296C291328553C006106CD /* BrazilianCherry.jpg in Resources */,
+				C9296C641328573F006106CD /* KempasKempas.jpg in Resources */,
+				C9296C6A13285791006106CD /* SantosMahogany.jpg in Resources */,
+				C9296C6E132857CB006106CD /* TeakTeak.jpg in Resources */,
+				C9296C7213285863006106CD /* WhiteOak (White).jpg in Resources */,
+				C95CFE2314B8A2650012A908 /* EMCCalculatorView.xib in Resources */,
+				C92A883F14D0D05F00ABB706 /* InstallMoistureHelpView.xib in Resources */,
+				C92A884414D0D45400ABB706 /* InstallMoistureCalculatorView.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1D60588E0D05DD3D006BFB54 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
+				1D3623260D0F684500981E51 /* FlooringAppAppDelegate.m in Sources */,
+				C9059AC711FE90A2008D6747 /* GappingCalculatorViewController.m in Sources */,
+				C9059ACC11FE90C5008D6747 /* CrowningCalculatorViewController.m in Sources */,
+				C9059AD111FE90D0008D6747 /* RoomExpansionViewController.m in Sources */,
+				C9059ADB11FE90ED008D6747 /* CuppingCalculatorViewController.m in Sources */,
+				C9059AE011FE910A008D6747 /* MoistureGainCalculatorViewController.m in Sources */,
+				C9AD4357123C4C9700777280 /* NumberKeypadDecimalPoint.m in Sources */,
+				C9FCBCC7123F1AE80087AAFA /* AbstractCalculatorViewController.m in Sources */,
+				C921FDAA12B5E91C00A36A93 /* DisclaimerViewController.m in Sources */,
+				C9B6B05112B9CC91002DB92D /* LandingPageViewController.m in Sources */,
+				C97503F912DFD684008AD261 /* GappingHelpController.m in Sources */,
+				C975043012DFD9E5008AD261 /* MoistureGainHelpController.m in Sources */,
+				C975047F12DFE171008AD261 /* RoomExpansionHelpController.m in Sources */,
+				C975049A12DFE273008AD261 /* CuppingHelpController.m in Sources */,
+				C97504AD12DFE328008AD261 /* CrowningHelpController.m in Sources */,
+				C94E84521311BFC000EB09E6 /* InformationTableViewController.m in Sources */,
+				C9E3BDC81311D39D00B6B7BB /* SubSpeciesInformationTableViewController.m in Sources */,
+				C9E3BE491311EE8600B6B7BB /* DetailsViewController.m in Sources */,
+				C9D6595A1315DBDA00520A57 /* WoodImageDetailViewController.m in Sources */,
+				C9D65A661315EC7F00520A57 /* CalculatorTableViewController.m in Sources */,
+				C95CFE2614B8A2F40012A908 /* EMCCalculatorViewController.m in Sources */,
+				C92A883D14D0CD4F00ABB706 /* InstallMoistureCalculatorViewController.m in Sources */,
+				C92A884214D0D0D400ABB706 /* InstallMoistureHelpController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		1D6058940D05DD3E006BFB54 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_ENTITLEMENTS = "~/Documents/iPhone/FlooringApp/Entitlements.plist";
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = WoodTek_Prefix.pch;
+				INFOPLIST_FILE = "WoodTek-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 4.0.1;
+				PRODUCT_NAME = WoodTek;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		1D6058950D05DD3E006BFB54 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_ENTITLEMENTS = "~/Documents/iPhone/FlooringApp/Entitlements.plist";
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = WoodTek_Prefix.pch;
+				INFOPLIST_FILE = "WoodTek-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 4.0.1;
+				PRODUCT_NAME = WoodTek;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		C01FCF4F08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Michelle Reichow (EN382W949D)";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.0;
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "DC3864EC-3D63-4A4F-AC87-213918B96CA3";
+				SDKROOT = iphoneos;
+				VALID_ARCHS = "armv6 armv7 i386";
+			};
+			name = Debug;
+		};
+		C01FCF5008A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CODE_SIGN_IDENTITY = "iPhone Distribution";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Michelle Reichow (EN382W949D)";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.0;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				PROVISIONING_PROFILE = "";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "DC3864EC-3D63-4A4F-AC87-213918B96CA3";
+				SDKROOT = iphoneos;
+				VALID_ARCHS = "";
+			};
+			name = Release;
+		};
+		C979F04912EFC51600AE07E9 /* App Store */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Michelle Reichow (EN382W949D)";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.0;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "DC3864EC-3D63-4A4F-AC87-213918B96CA3";
+				SDKROOT = iphoneos;
+				VALID_ARCHS = "";
+			};
+			name = "App Store";
+		};
+		C979F04A12EFC51600AE07E9 /* App Store */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_ENTITLEMENTS = "~/Documents/iPhone/FlooringApp/Entitlements.plist";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = WoodTek_Prefix.pch;
+				INFOPLIST_FILE = "WoodTek-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 4.0.1;
+				PRODUCT_NAME = WoodTek;
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = "App Store";
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "WoodTek" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1D6058940D05DD3E006BFB54 /* Debug */,
+				1D6058950D05DD3E006BFB54 /* Release */,
+				C979F04A12EFC51600AE07E9 /* App Store */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "WoodTek" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4F08A954540054247B /* Debug */,
+				C01FCF5008A954540054247B /* Release */,
+				C979F04912EFC51600AE07E9 /* App Store */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 29B97313FDCFA39411CA2CEA /* Project object */;
+}

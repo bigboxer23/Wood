@@ -1,0 +1,2179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Willow</key>
+	<dict>
+		<key>Black</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.39</string>
+		</dict>
+	</dict>
+	<key>Poplar</key>
+	<dict>
+		<key>Yellow</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.42</string>
+		</dict>
+	</dict>
+	<key>Hackberry</key>
+	<dict>
+		<key>Hackberry</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.53</string>
+		</dict>
+	</dict>
+	<key>Dogwood</key>
+	<dict>
+		<key>Flowering</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.64</string>
+		</dict>
+	</dict>
+	<key>Apple</key>
+	<dict>
+		<key>Apple</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.61</string>
+		</dict>
+	</dict>
+	<key>Alder</key>
+	<dict>
+		<key>Red</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.41</string>
+		</dict>
+	</dict>
+	<key>Wenge</key>
+	<dict>
+		<key>Wenge</key>
+		<dict>
+			<key>Plain Sawn</key>
+			<string>.00201</string>
+		</dict>
+	</dict>
+	<key>Cottonwood</key>
+	<dict>
+		<key>Eastern</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.4</string>
+		</dict>
+		<key>Black</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.35</string>
+		</dict>
+		<key>Balsam Poplar</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.34</string>
+		</dict>
+	</dict>
+	<key>Walnut</key>
+	<dict>
+		<key>Brazilian</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.91</string>
+			<key>Quarter Sawn</key>
+			<string>.00266</string>
+			<key>Plain Sawn</key>
+			<string>.00307</string>
+			<key>Common Name</key>
+			<string>Lapacho, Ipe</string>
+			<key>Botanical Name</key>
+			<string>Tabebuia Serratifolia</string>
+			<key>Janka Hardness</key>
+			<string>3680</string>
+			<key>Tangential Shrinkage</key>
+			<string>8.0%</string>
+			<key>Radial Shrinkage</key>
+			<string>6.6%</string>
+			<key>Fiber Saturation Point</key>
+			<string>20%</string>
+			<key>Color Range</key>
+			<string>Medium - Dark Brown</string>
+			<key>U.V. Sensitive</key>
+			<string>Moderate</string>
+			<key>Stability</key>
+			<string>Moderate</string>
+			<key>Grain</key>
+			<string>Straight to very irregular</string>
+			<key>Origin</key>
+			<string>Brazil, Bolivia, Argentina, Paraguay</string>
+			<key>Resource</key>
+			<string>www.novausawood.com</string>
+		</dict>
+		<key>Tiger&apos;s Eye</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00188</string>
+			<key>Plain Sawn</key>
+			<string>.00323</string>
+		</dict>
+		<key>Patagonian</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00197</string>
+			<key>Plain Sawn</key>
+			<string>.00319</string>
+		</dict>
+		<key>Black</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.55</string>
+			<key>Quarter Sawn</key>
+			<string>.0019</string>
+			<key>Plain Sawn</key>
+			<string>.00274</string>
+		</dict>
+		<key>Caribbean</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00291</string>
+			<key>Plain Sawn</key>
+			<string>.00349</string>
+		</dict>
+	</dict>
+	<key>Tupelo</key>
+	<dict>
+		<key>Black</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.5</string>
+		</dict>
+		<key>Water</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00144</string>
+			<key>Plain Sawn</key>
+			<string>.00267</string>
+		</dict>
+	</dict>
+	<key>Tigerwood</key>
+	<dict>
+		<key>Tigerwood</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00147</string>
+			<key>Plain Sawn</key>
+			<string>.00228</string>
+		</dict>
+	</dict>
+	<key>Teak</key>
+	<dict>
+		<key>Brazilian</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00245</string>
+			<key>Plain Sawn</key>
+			<string>.00381</string>
+			<key>Common Name</key>
+			<string>Cumaru, Southern Chestnut</string>
+			<key>Botanical Name</key>
+			<string>Dipterix odorata</string>
+			<key>Janka Hardness</key>
+			<string>3200</string>
+			<key>Specific Gravity</key>
+			<string>.90</string>
+			<key>Tangential Shrinkage</key>
+			<string>8.4%</string>
+			<key>Radial Shrinkage</key>
+			<string>5.4%</string>
+			<key>Fiber Saturation Point</key>
+			<string>22%</string>
+			<key>Color Range</key>
+			<string>Reddish to purplish brown</string>
+			<key>U.V. Sensitive</key>
+			<string>More uniform on exposure</string>
+			<key>Grain</key>
+			<string>Interlocked</string>
+			<key>Origin</key>
+			<string>Brazil, Venezuela, Peru, Bolivia, Guianes, Columbia</string>
+			<key>Resource</key>
+			<string>www.novausawood.com</string>
+		</dict>
+		<key>Teak</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.59</string>
+		</dict>
+	</dict>
+	<key>Yew</key>
+	<dict>
+		<key>Yew</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.67</string>
+		</dict>
+	</dict>
+	<key>Sweetgum</key>
+	<dict>
+		<key>Sweetgum</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.52</string>
+			<key>Quarter Sawn</key>
+			<string>.00183</string>
+			<key>Plain Sawn</key>
+			<string>.00365</string>
+		</dict>
+	</dict>
+	<key>Spruce</key>
+	<dict>
+		<key>Black</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.42</string>
+			<key>Quarter Sawn</key>
+			<string>.00141</string>
+			<key>Plain Sawn</key>
+			<string>.00237</string>
+		</dict>
+		<key>Engelmann</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.35</string>
+			<key>Quarter Sawn</key>
+			<string>.0013</string>
+			<key>Plain Sawn</key>
+			<string>.00248</string>
+		</dict>
+		<key>Red</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.4</string>
+			<key>Quarter Sawn</key>
+			<string>.0013</string>
+			<key>Plain Sawn</key>
+			<string>.00274</string>
+		</dict>
+		<key>Sitka</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.4</string>
+			<key>Quarter Sawn</key>
+			<string>.00148</string>
+			<key>Plain Sawn</key>
+			<string>.00263</string>
+		</dict>
+	</dict>
+	<key>Shedua-Mutenye</key>
+	<dict>
+		<key>Shedua-Mutenye</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00188</string>
+			<key>Plain Sawn</key>
+			<string>.00323</string>
+		</dict>
+	</dict>
+	<key>Rosewood</key>
+	<dict>
+		<key>Tiete</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.0016</string>
+			<key>Plain Sawn</key>
+			<string>.00280</string>
+			<key>Common Name</key>
+			<string>Bolivian Rosewood, Patagonian Cherry</string>
+			<key>Janka Hardness</key>
+			<string>3280</string>
+			<key>Specific Graviry</key>
+			<string>.67</string>
+			<key>Tangential Shrinkage</key>
+			<string>7.0%</string>
+			<key>Radial Shrinkage</key>
+			<string>4.0%</string>
+			<key>Fiber Saturation Point</key>
+			<string>25%</string>
+			<key>Color Range</key>
+			<string>Salmon color heartwood</string>
+			<key>U.V. Sensitive</key>
+			<string>more uniform</string>
+			<key>Stability</key>
+			<string>Moderate</string>
+			<key>Grain</key>
+			<string>Interlocked</string>
+			<key>Origin</key>
+			<string>Bolivia, Paraguay</string>
+			<key>Resource</key>
+			<string>www.novausawood.com</string>
+		</dict>
+		<key>Brazillian (Jacaranda)</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.85</string>
+		</dict>
+		<key>Indian</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.85</string>
+		</dict>
+		<key>Patagonian</key>
+		<dict>
+			<key>Plain Sawn</key>
+			<string>.00324</string>
+		</dict>
+		<key>Striped</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00188</string>
+			<key>Plain Sawn</key>
+			<string>.00323</string>
+		</dict>
+		<key>Bolivian</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.0016</string>
+			<key>Plain Sawn</key>
+			<string>.00280</string>
+			<key>Common Name</key>
+			<string>Tiete Rosewood, Patagonian Cherry</string>
+			<key>Janka Hardness</key>
+			<string>3280</string>
+			<key>Specific Graviry</key>
+			<string>.67</string>
+			<key>Tangential Shrinkage</key>
+			<string>7.0%</string>
+			<key>Radial Shrinkage</key>
+			<string>4.0%</string>
+			<key>Fiber Saturation Point</key>
+			<string>25%</string>
+			<key>Color Range</key>
+			<string>Salmon color heartwood</string>
+			<key>U.V. Sensitive</key>
+			<string>more uniform</string>
+			<key>Stability</key>
+			<string>Moderate</string>
+			<key>Grain</key>
+			<string>Interlocked</string>
+			<key>Origin</key>
+			<string>Bolivia, Paraguay</string>
+			<key>Resource</key>
+			<string>www.novausawood.com</string>
+		</dict>
+		<key>Caribbean</key>
+		<dict>
+			<key>Plain Sawn</key>
+			<string>.00211</string>
+		</dict>
+	</dict>
+	<key>Santa Maria</key>
+	<dict>
+		<key>Santa Maria</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.61</string>
+		</dict>
+	</dict>
+	<key>Sapele</key>
+	<dict>
+		<key>Sapele</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.62</string>
+		</dict>
+	</dict>
+	<key>Purpleheart</key>
+	<dict>
+		<key>Purpleheart</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.8</string>
+			<key>Plain Sawn</key>
+			<string>.00212</string>
+		</dict>
+	</dict>
+	<key>Pine</key>
+	<dict>
+		<key>Spruce</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.44</string>
+		</dict>
+		<key>Parana</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.54</string>
+		</dict>
+		<key>Ocote</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.66</string>
+		</dict>
+		<key>Caribbean</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.61</string>
+		</dict>
+		<key>Southern Yellow</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.51</string>
+			<key>Plain Sawn</key>
+			<string>.00265</string>
+		</dict>
+		<key>Virgina</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00144</string>
+			<key>Plain Sawn</key>
+			<string>.00252</string>
+		</dict>
+		<key>Western White</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.38</string>
+			<key>Quarter Sawn</key>
+			<string>.00141</string>
+			<key>Plain Sawn</key>
+			<string>.00259</string>
+		</dict>
+		<key>Heart</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.55</string>
+			<key>Quarter Sawn</key>
+			<string>.0024</string>
+			<key>Plain Sawn</key>
+			<string>.00268</string>
+		</dict>
+		<key>Jack</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.43</string>
+			<key>Quarter Sawn</key>
+			<string>.00126</string>
+			<key>Plain Sawn</key>
+			<string>.0023</string>
+		</dict>
+		<key>Loblolly</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00165</string>
+			<key>Plain Sawn</key>
+			<string>.00259</string>
+		</dict>
+		<key>Lodgepole</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.41</string>
+			<key>Quarter Sawn</key>
+			<string>.00148</string>
+			<key>Plain Sawn</key>
+			<string>.00234</string>
+		</dict>
+		<key>Longleaf</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.59</string>
+			<key>Quarter Sawn</key>
+			<string>.00176</string>
+			<key>Plain Sawn</key>
+			<string>.00263</string>
+		</dict>
+		<key>Pond</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00165</string>
+			<key>Plain Sawn</key>
+			<string>.00259</string>
+		</dict>
+		<key>Ponderosa</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.4</string>
+			<key>Quarter Sawn</key>
+			<string>.00133</string>
+			<key>Plain Sawn</key>
+			<string>.00216</string>
+		</dict>
+		<key>Radiata (Monterey)</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.48</string>
+			<key>Quarter Sawn</key>
+			<string>.001</string>
+			<key>Plain Sawn</key>
+			<string>.00233</string>
+		</dict>
+		<key>Red</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.46</string>
+			<key>Quarter Sawn</key>
+			<string>.0013</string>
+			<key>Plain Sawn</key>
+			<string>.00252</string>
+		</dict>
+		<key>Shortleaf</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.51</string>
+			<key>Quarter Sawn</key>
+			<string>.00158</string>
+			<key>Plain Sawn</key>
+			<string>.00271</string>
+		</dict>
+		<key>Slash</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00187</string>
+			<key>Plain Sawn</key>
+			<string>.00267</string>
+		</dict>
+		<key>Sugar</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.36</string>
+			<key>Quarter Sawn</key>
+			<string>.00099</string>
+			<key>Plain Sawn</key>
+			<string>.00194</string>
+		</dict>
+		<key>Eastern White</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.35</string>
+			<key>Quarter Sawn</key>
+			<string>.00071</string>
+			<key>Plain Sawn</key>
+			<string>.00212</string>
+		</dict>
+	</dict>
+	<key>Ramin</key>
+	<dict>
+		<key>Ramin</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.65</string>
+		</dict>
+	</dict>
+	<key>Roble</key>
+	<dict>
+		<key>Quercus</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.64</string>
+		</dict>
+	</dict>
+	<key>Okoume</key>
+	<dict>
+		<key>Okoume</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.44</string>
+		</dict>
+	</dict>
+	<key>Opepe</key>
+	<dict>
+		<key>Opepe</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.73</string>
+		</dict>
+	</dict>
+	<key>Cativo</key>
+	<dict>
+		<key>Cativo</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.44</string>
+		</dict>
+	</dict>
+	<key>Courbaril</key>
+	<dict>
+		<key>Jatoba</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.91</string>
+		</dict>
+	</dict>
+	<key>Carapa</key>
+	<dict>
+		<key>Carapa</key>
+		<dict>
+			<key>Imported</key>
+			<string>Yes</string>
+			<key>Stability</key>
+			<string>Moderately Stable</string>
+			<key>Common Name</key>
+			<string>Andiroba, Royal Mahogany, Brazilian Mesquite, Crabwood, Cedro, Macho</string>
+			<key>Specific Gravity</key>
+			<string>.55</string>
+			<key>Quarter Sawn</key>
+			<string>.00114</string>
+			<key>Tangential Shrinkage</key>
+			<string>7.6%</string>
+			<key>Plain Sawn</key>
+			<string>.00281</string>
+			<key>Radial Shrinkage</key>
+			<string>3.1%</string>
+			<key>Fiber Saturation Point</key>
+			<string>27%</string>
+			<key>Color Range</key>
+			<string>Light Pink to Reddish Brown</string>
+			<key>U.V. Sensitive</key>
+			<string>Yes, darkens with time</string>
+			<key>Grain</key>
+			<string>Straight and sometimes roey</string>
+			<key>Origin</key>
+			<string>Central and South America</string>
+			<key>Resource</key>
+			<string>www.novausawood.com</string>
+			<key>Janka Hardness</key>
+			<string>1220</string>
+			<key>Botanical Name</key>
+			<string>Carapa Procera</string>
+		</dict>
+	</dict>
+	<key>Pecan</key>
+	<dict>
+		<key>Pecan</key>
+		<dict>
+			<key>Plain Sawn</key>
+			<string>.00315</string>
+		</dict>
+	</dict>
+	<key>Patagonian</key>
+	<dict>
+		<key>Patagonian</key>
+		<dict>
+			<key>Plain Sawn</key>
+			<string>.00302</string>
+		</dict>
+	</dict>
+	<key>Other</key>
+	<dict>
+		<key>Juniper</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00111</string>
+			<key>Plain Sawn</key>
+			<string>.00155</string>
+		</dict>
+		<key>Padauk</key>
+		<dict>
+			<key>Plain Sawn</key>
+			<string>.0018</string>
+		</dict>
+		<key>Poplar-Yellow</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00158</string>
+			<key>Plain Sawn</key>
+			<string>.00289</string>
+		</dict>
+		<key>Teak</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00138</string>
+			<key>Plain Sawn</key>
+			<string>.00186</string>
+		</dict>
+		<key>Tanoak</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00169</string>
+			<key>Plain Sawn</key>
+			<string>.00423</string>
+		</dict>
+		<key>Tamarack</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00126</string>
+			<key>Plain Sawn</key>
+			<string>.00259</string>
+		</dict>
+		<key>Hackberry</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00165</string>
+			<key>Plain Sawn</key>
+			<string>.00315</string>
+		</dict>
+		<key>Butternut</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00116</string>
+			<key>Plain Sawn</key>
+			<string>.00223</string>
+		</dict>
+	</dict>
+	<key>Oak (Red)</key>
+	<dict>
+		<key>Red</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.64</string>
+		</dict>
+		<key>Pin</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.63</string>
+		</dict>
+		<key>Scarlet</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.67</string>
+		</dict>
+		<key>Willow</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.63</string>
+			<key>Quarter Sawn</key>
+			<string>.00151</string>
+			<key>Plain Sawn</key>
+			<string>.0035</string>
+		</dict>
+		<key>Water</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.63</string>
+			<key>Quarter Sawn</key>
+			<string>.00151</string>
+			<key>Plain Sawn</key>
+			<string>.0035</string>
+		</dict>
+		<key>Southern</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.59</string>
+			<key>Quarter Sawn</key>
+			<string>.00158</string>
+			<key>Plain Sawn</key>
+			<string>.00369</string>
+		</dict>
+		<key>Northern</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.63</string>
+			<key>Quarter Sawn</key>
+			<string>.00158</string>
+			<key>Plain Sawn</key>
+			<string>.00369</string>
+		</dict>
+		<key>Laurel</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.63</string>
+			<key>Quarter Sawn</key>
+			<string>.00151</string>
+			<key>Plain Sawn</key>
+			<string>.0035</string>
+		</dict>
+		<key>Cherrybark</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.68</string>
+		</dict>
+		<key>Black</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.61</string>
+			<key>Plain Sawn</key>
+			<string>.00232</string>
+			<key>Quarter Sawn</key>
+			<string>.00123</string>
+		</dict>
+	</dict>
+	<key>Oak (White)</key>
+	<dict>
+		<key>Swamp Chestnut</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.67</string>
+		</dict>
+		<key>Swamp</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.67</string>
+		</dict>
+		<key>Post</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.67</string>
+		</dict>
+		<key>Overcup</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.63</string>
+			<key>Quarter Sawn</key>
+			<string>.00183</string>
+			<key>Plain Sawn</key>
+			<string>.00462</string>
+		</dict>
+		<key>Chestnut</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.66</string>
+		</dict>
+		<key>Bur</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.64</string>
+		</dict>
+		<key>White</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.66</string>
+			<key>Quarter Sawn</key>
+			<string>.0018</string>
+			<key>Plain Sawn</key>
+			<string>.00365</string>
+		</dict>
+	</dict>
+	<key>Persimmon</key>
+	<dict>
+		<key>Common</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.64</string>
+		</dict>
+	</dict>
+	<key>Oak</key>
+	<dict>
+		<key>California Black</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.51</string>
+		</dict>
+		<key>Black</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00123</string>
+			<key>Plain Sawn</key>
+			<string>.0023</string>
+		</dict>
+		<key>Live</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.0023</string>
+			<key>Plain Sawn</key>
+			<string>.00338</string>
+		</dict>
+		<key>Overcup</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00183</string>
+			<key>Plain Sawn</key>
+			<string>.00462</string>
+		</dict>
+	</dict>
+	<key>Mesquite</key>
+	<dict>
+		<key>Brazilian</key>
+		<dict>
+			<key>Imported</key>
+			<string>Yes</string>
+			<key>Stability</key>
+			<string>Moderately Stable</string>
+			<key>Common Name</key>
+			<string>Andiroba, Royal Mahogany, Crabwood, Cedro, Macho, Carapa</string>
+			<key>Specific Gravity</key>
+			<string>.55</string>
+			<key>Quarter Sawn</key>
+			<string>.00114</string>
+			<key>Tangential Shrinkage</key>
+			<string>7.6%</string>
+			<key>Plain Sawn</key>
+			<string>.00281</string>
+			<key>Radial Shrinkage</key>
+			<string>3.1%</string>
+			<key>Fiber Saturation Point</key>
+			<string>27%</string>
+			<key>Color Range</key>
+			<string>Light Pink to Reddish Brown</string>
+			<key>U.V. Sensitive</key>
+			<string>Yes, darkens with time</string>
+			<key>Grain</key>
+			<string>Straight and sometimes roey</string>
+			<key>Origin</key>
+			<string>Central and South America</string>
+			<key>Resource</key>
+			<string>www.novausawood.com</string>
+			<key>Janka Hardness</key>
+			<string>1220</string>
+			<key>Botanical Name</key>
+			<string>Carapa Procera</string>
+		</dict>
+		<key>Mesquite</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.78</string>
+			<key>Plain Sawn</key>
+			<string>.00129</string>
+		</dict>
+	</dict>
+	<key>Sassafras</key>
+	<dict>
+		<key>Sassafras</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.46</string>
+		</dict>
+	</dict>
+	<key>Sycamore</key>
+	<dict>
+		<key>American</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.49</string>
+		</dict>
+	</dict>
+	<key>Merbau</key>
+	<dict>
+		<key>Merbau</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.8</string>
+			<key>Plain Sawn</key>
+			<string>.00158</string>
+		</dict>
+	</dict>
+	<key>Mersawa</key>
+	<dict>
+		<key>Mersawa</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.65</string>
+		</dict>
+	</dict>
+	<key>Mueri</key>
+	<dict>
+		<key>Cherry</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.63</string>
+		</dict>
+	</dict>
+	<key>Obeche</key>
+	<dict>
+		<key>Obeche</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.38</string>
+		</dict>
+	</dict>
+	<key>Maple</key>
+	<dict>
+		<key>Sugar</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.63</string>
+		</dict>
+		<key>Soft</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.51</string>
+		</dict>
+		<key>Sliver</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.47</string>
+			<key>Quarter Sawn</key>
+			<string>.00102</string>
+			<key>Plain Sawn</key>
+			<string>.00252</string>
+		</dict>
+		<key>Patagonian</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00207</string>
+			<key>Plain Sawn</key>
+			<string>.00231</string>
+		</dict>
+		<key>Black</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.57</string>
+			<key>Quarter Sawn</key>
+			<string>.00165</string>
+			<key>Plain Sawn</key>
+			<string>.00353</string>
+		</dict>
+		<key>Hard</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.66</string>
+			<key>Quarter Sawn</key>
+			<string>.00165</string>
+			<key>Plain Sawn</key>
+			<string>.00353</string>
+		</dict>
+		<key>Red</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.54</string>
+			<key>Quarter Sawn</key>
+			<string>.00137</string>
+			<key>Plain Sawn</key>
+			<string>.00289</string>
+		</dict>
+		<key>Bigleaf</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.48</string>
+			<key>Quarter Sawn</key>
+			<string>.00126</string>
+			<key>Plain Sawn</key>
+			<string>.00248</string>
+		</dict>
+	</dict>
+	<key>Macho</key>
+	<dict>
+		<key>Macho</key>
+		<dict>
+			<key>Imported</key>
+			<string>Yes</string>
+			<key>Stability</key>
+			<string>Moderately Stable</string>
+			<key>Common Name</key>
+			<string>Andiroba, Royal Mahogany, Brazilian Mesquite, Crabwood, Cedro, Carapa</string>
+			<key>Specific Gravity</key>
+			<string>.55</string>
+			<key>Quarter Sawn</key>
+			<string>.00114</string>
+			<key>Tangential Shrinkage</key>
+			<string>7.6%</string>
+			<key>Plain Sawn</key>
+			<string>.00281</string>
+			<key>Radial Shrinkage</key>
+			<string>3.1%</string>
+			<key>Fiber Saturation Point</key>
+			<string>27%</string>
+			<key>Color Range</key>
+			<string>Light Pink to Reddish Brown</string>
+			<key>U.V. Sensitive</key>
+			<string>Yes, darkens with time</string>
+			<key>Grain</key>
+			<string>Straight and sometimes roey</string>
+			<key>Origin</key>
+			<string>Central and South America</string>
+			<key>Resource</key>
+			<string>www.novausawood.com</string>
+			<key>Janka Hardness</key>
+			<string>1220</string>
+			<key>Botanical Name</key>
+			<string>Carapa Procera</string>
+		</dict>
+	</dict>
+	<key>Mahogany</key>
+	<dict>
+		<key>Royal</key>
+		<dict>
+			<key>Imported</key>
+			<string>Yes</string>
+			<key>Stability</key>
+			<string>Moderately Stable</string>
+			<key>Common Name</key>
+			<string>Andiroba, Brazilian Mesquite, Crabwood, Cedro, Macho, Carapa</string>
+			<key>Specific Gravity</key>
+			<string>.55</string>
+			<key>Quarter Sawn</key>
+			<string>.00114</string>
+			<key>Tangential Shrinkage</key>
+			<string>7.6%</string>
+			<key>Plain Sawn</key>
+			<string>.00281</string>
+			<key>Radial Shrinkage</key>
+			<string>3.1%</string>
+			<key>Fiber Saturation Point</key>
+			<string>27%</string>
+			<key>Color Range</key>
+			<string>Light Pink to Reddish Brown</string>
+			<key>U.V. Sensitive</key>
+			<string>Yes, darkens with time</string>
+			<key>Grain</key>
+			<string>Straight and sometimes roey</string>
+			<key>Origin</key>
+			<string>Central and South America</string>
+			<key>Resource</key>
+			<string>www.novausawood.com</string>
+			<key>Janka Hardness</key>
+			<string>1220</string>
+			<key>Botanical Name</key>
+			<string>Carapa Procera</string>
+		</dict>
+		<key>True</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.59</string>
+		</dict>
+		<key>Honduras</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.6</string>
+		</dict>
+		<key>African</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.61</string>
+		</dict>
+		<key>Andean</key>
+		<dict>
+			<key>Plain Sawn</key>
+			<string>.00324</string>
+		</dict>
+		<key>Santos</key>
+		<dict>
+			<key>Common Name</key>
+			<string>Santos Mahogany</string>
+			<key>Specific Gravity</key>
+			<string>.77</string>
+			<key>Quarter Sawn</key>
+			<string>.00163</string>
+			<key>Tangential Shrinkage</key>
+			<string>6.5%</string>
+			<key>Plain Sawn</key>
+			<string>.00238</string>
+			<key>Radial Shrinkage</key>
+			<string>4.2%</string>
+			<key>Fiber Saturation Point</key>
+			<string>25%</string>
+			<key>Color Range</key>
+			<string>reddish brown/dark red</string>
+			<key>U.V. Sensitive</key>
+			<string>becomes more uniform</string>
+			<key>Grain</key>
+			<string>Interlocked</string>
+			<key>Origin</key>
+			<string>S. Mexico, Central America, Argentina</string>
+			<key>Resource</key>
+			<string>www.novausawood.com</string>
+			<key>Janka Hardness</key>
+			<string>2200</string>
+			<key>Botanical Name</key>
+			<string>Myroxylon Balsamum</string>
+		</dict>
+	</dict>
+	<key>Magnolia</key>
+	<dict>
+		<key>Southern</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.5</string>
+			<key>Quarter Sawn</key>
+			<string>.00187</string>
+			<key>Plain Sawn</key>
+			<string>.0023</string>
+		</dict>
+		<key>Sweetbay</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00162</string>
+			<key>Plain Sawn</key>
+			<string>.00293</string>
+		</dict>
+	</dict>
+	<key>Keruing</key>
+	<dict>
+		<key>Apitong</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.64</string>
+		</dict>
+	</dict>
+	<key>Manni</key>
+	<dict>
+		<key>Manni</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.68</string>
+		</dict>
+	</dict>
+	<key>Koa</key>
+	<dict>
+		<key>Koa</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.67</string>
+		</dict>
+	</dict>
+	<key>Lauan</key>
+	<dict>
+		<key>Light Red Meranti</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.5</string>
+		</dict>
+		<key>Dark Red</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.67</string>
+		</dict>
+	</dict>
+	<key>Larch</key>
+	<dict>
+		<key>Larch</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.52</string>
+		</dict>
+	</dict>
+	<key>Limba</key>
+	<dict>
+		<key>Limba</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.45</string>
+		</dict>
+	</dict>
+	<key>Kempas</key>
+	<dict>
+		<key>Kempas</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.84</string>
+			<key>Quarter Sawn</key>
+			<string>.00308</string>
+			<key>Plain Sawn</key>
+			<string>.00357</string>
+		</dict>
+	</dict>
+	<key>Jarrah</key>
+	<dict>
+		<key>Jarrah</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.8</string>
+			<key>Quarter Sawn</key>
+			<string>.00236</string>
+			<key>Plain Sawn</key>
+			<string>.00396</string>
+		</dict>
+	</dict>
+	<key>Jelutong</key>
+	<dict>
+		<key>Jelutong</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.46</string>
+		</dict>
+	</dict>
+	<key>Iroko/Kambala</key>
+	<dict>
+		<key>Iroko/Kambala</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.7</string>
+			<key>Quarter Sawn</key>
+			<string>.00125</string>
+			<key>Plain Sawn</key>
+			<string>.00192</string>
+		</dict>
+	</dict>
+	<key>Kapur</key>
+	<dict>
+		<key>Kapur</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.76</string>
+		</dict>
+	</dict>
+	<key>Ipe</key>
+	<dict>
+		<key>Ipe</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.91</string>
+			<key>Quarter Sawn</key>
+			<string>.00266</string>
+			<key>Plain Sawn</key>
+			<string>.00307</string>
+			<key>Common Name</key>
+			<string>Brazilian Walnut, Lapacho</string>
+			<key>Botanical Name</key>
+			<string>Tabebuia Serratifolia</string>
+			<key>Janka Hardness</key>
+			<string>3680</string>
+			<key>Tangential Shrinkage</key>
+			<string>8.0%</string>
+			<key>Radial Shrinkage</key>
+			<string>6.6%</string>
+			<key>Fiber Saturation Point</key>
+			<string>20%</string>
+			<key>Color Range</key>
+			<string>Medium - Dark Brown</string>
+			<key>U.V. Sensitive</key>
+			<string>Moderate</string>
+			<key>Stability</key>
+			<string>Moderate</string>
+			<key>Grain</key>
+			<string>Straight to very irregular</string>
+			<key>Origin</key>
+			<string>Brazil, Bolivia, Argentina, Paraguay</string>
+			<key>Resource</key>
+			<string>www.novausawood.com</string>
+		</dict>
+	</dict>
+	<key>Hickory</key>
+	<dict>
+		<key>Water</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.62</string>
+		</dict>
+		<key>Nutmeg</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.6</string>
+		</dict>
+		<key>Bitternut</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.66</string>
+		</dict>
+		<key>Pecan</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.66</string>
+			<key>Quarter Sawn</key>
+			<string>.00169</string>
+			<key>Plain Sawn</key>
+			<string>.00315</string>
+		</dict>
+		<key>Shellbark</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.69</string>
+			<key>Quarter Sawn</key>
+			<string>.00259</string>
+			<key>Plain Sawn</key>
+			<string>.00411</string>
+		</dict>
+		<key>Shagbark</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.72</string>
+			<key>Quarter Sawn</key>
+			<string>.00259</string>
+			<key>Plain Sawn</key>
+			<string>.00411</string>
+		</dict>
+		<key>Pignut</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.75</string>
+			<key>Quarter Sawn</key>
+			<string>.00259</string>
+			<key>Plain Sawn</key>
+			<string>.00411</string>
+		</dict>
+		<key>Mockernut</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.72</string>
+			<key>Quarter Sawn</key>
+			<string>.00259</string>
+			<key>Plain Sawn</key>
+			<string>.00411</string>
+		</dict>
+	</dict>
+	<key>Holly</key>
+	<dict>
+		<key>Holly</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.5</string>
+		</dict>
+	</dict>
+	<key>Hophornbeam</key>
+	<dict>
+		<key>Eastern</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.63</string>
+		</dict>
+	</dict>
+	<key>Laurel</key>
+	<dict>
+		<key>California</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.51</string>
+		</dict>
+	</dict>
+	<key>Locust</key>
+	<dict>
+		<key>Black</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.69</string>
+		</dict>
+	</dict>
+	<key>Madrone</key>
+	<dict>
+		<key>Pacific</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.58</string>
+		</dict>
+	</dict>
+	<key>Hemlock</key>
+	<dict>
+		<key>Mountain</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.45</string>
+		</dict>
+		<key>Western</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.45</string>
+			<key>Quarter Sawn</key>
+			<string>.00144</string>
+			<key>Plain Sawn</key>
+			<string>.00274</string>
+		</dict>
+		<key>Eastern</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.4</string>
+			<key>Quarter Sawn</key>
+			<string>.00102</string>
+			<key>Plain Sawn</key>
+			<string>.00237</string>
+		</dict>
+	</dict>
+	<key>Fir</key>
+	<dict>
+		<key>White</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.39</string>
+		</dict>
+		<key>California</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.38</string>
+		</dict>
+		<key>Balsam</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.35</string>
+			<key>Quarter Sawn</key>
+			<string>.00099</string>
+			<key>Plain Sawn</key>
+			<string>.00241</string>
+		</dict>
+		<key>Douglas</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.5</string>
+			<key>Quarter Sawn</key>
+			<string>.00165</string>
+			<key>Plain Sawn</key>
+			<string>.00267</string>
+		</dict>
+	</dict>
+	<key>Elm</key>
+	<dict>
+		<key>Slippery</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.53</string>
+		</dict>
+		<key>American</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.5</string>
+			<key>Quarter Sawn</key>
+			<string>.00144</string>
+			<key>Plain Sawn</key>
+			<string>.00338</string>
+		</dict>
+		<key>Rock</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.63</string>
+			<key>Quarter Sawn</key>
+			<string>.00165</string>
+			<key>Plain Sawn</key>
+			<string>.00285</string>
+		</dict>
+		<key>Cedar</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00183</string>
+			<key>Plain Sawn</key>
+			<string>.00419</string>
+		</dict>
+	</dict>
+	<key>Cedar</key>
+	<dict>
+		<key>Spanish</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.41</string>
+		</dict>
+	</dict>
+	<key>Cedro</key>
+	<dict>
+		<key>Cedro</key>
+		<dict>
+			<key>Imported</key>
+			<string>Yes</string>
+			<key>Stability</key>
+			<string>Moderately Stable</string>
+			<key>Common Name</key>
+			<string>Andiroba, Royal Mahogany, Brazilian Mesquite, Crabwood, Macho, Carapa</string>
+			<key>Specific Gravity</key>
+			<string>.55</string>
+			<key>Quarter Sawn</key>
+			<string>.00114</string>
+			<key>Tangential Shrinkage</key>
+			<string>7.6%</string>
+			<key>Plain Sawn</key>
+			<string>.00281</string>
+			<key>Radial Shrinkage</key>
+			<string>3.1%</string>
+			<key>Fiber Saturation Point</key>
+			<string>27%</string>
+			<key>Color Range</key>
+			<string>Light Pink to Reddish Brown</string>
+			<key>U.V. Sensitive</key>
+			<string>Yes, darkens with time</string>
+			<key>Grain</key>
+			<string>Straight and sometimes roey</string>
+			<key>Origin</key>
+			<string>Central and South America</string>
+			<key>Resource</key>
+			<string>www.novausawood.com</string>
+			<key>Janka Hardness</key>
+			<string>1220</string>
+			<key>Botanical Name</key>
+			<string>Carapa Procera</string>
+		</dict>
+	</dict>
+	<key>Crabwood</key>
+	<dict>
+		<key>Crabwood</key>
+		<dict>
+			<key>Imported</key>
+			<string>Yes</string>
+			<key>Stability</key>
+			<string>Moderately Stable</string>
+			<key>Common Name</key>
+			<string>Andiroba, Royal Mahogany, Brazilian Mesquite, Cedro, Macho, Carapa</string>
+			<key>Specific Gravity</key>
+			<string>.55</string>
+			<key>Quarter Sawn</key>
+			<string>.00114</string>
+			<key>Tangential Shrinkage</key>
+			<string>7.6%</string>
+			<key>Plain Sawn</key>
+			<string>.00281</string>
+			<key>Radial Shrinkage</key>
+			<string>3.1%</string>
+			<key>Fiber Saturation Point</key>
+			<string>27%</string>
+			<key>Color Range</key>
+			<string>Light Pink to Reddish Brown</string>
+			<key>U.V. Sensitive</key>
+			<string>Yes, darkens with time</string>
+			<key>Grain</key>
+			<string>Straight and sometimes roey</string>
+			<key>Origin</key>
+			<string>Central and South America</string>
+			<key>Resource</key>
+			<string>www.novausawood.com</string>
+			<key>Janka Hardness</key>
+			<string>1220</string>
+			<key>Botanical Name</key>
+			<string>Carapa Procera</string>
+		</dict>
+	</dict>
+	<key>Ebony</key>
+	<dict>
+		<key>Ebony</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.7</string>
+			<key>Quarter Sawn</key>
+			<string>.00188</string>
+			<key>Plain Sawn</key>
+			<string>.00323</string>
+		</dict>
+	</dict>
+	<key>Gmelina</key>
+	<dict>
+		<key>Gmelina</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.5</string>
+		</dict>
+	</dict>
+	<key>Hura</key>
+	<dict>
+		<key>Hura</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.38</string>
+		</dict>
+	</dict>
+	<key>Doussie</key>
+	<dict>
+		<key>Doussie</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00138</string>
+			<key>Plain Sawn</key>
+			<string>.00244</string>
+		</dict>
+	</dict>
+	<key>Cypress</key>
+	<dict>
+		<key>Cypress</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.51</string>
+		</dict>
+		<key>Bermuda</key>
+		<dict>
+			<key>Plain Sawn</key>
+			<string>.00374</string>
+		</dict>
+		<key>Bald</key>
+		<dict>
+			<key>Plain Sawn</key>
+			<string>.00216</string>
+		</dict>
+		<key>Australian</key>
+		<dict>
+			<key>Plain Sawn</key>
+			<string>.00374</string>
+		</dict>
+	</dict>
+	<key>Degame</key>
+	<dict>
+		<key>Degame</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.82</string>
+		</dict>
+	</dict>
+	<key>Peroba</key>
+	<dict>
+		<key>Rosa</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.75</string>
+		</dict>
+		<key>De Campos</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.63</string>
+		</dict>
+	</dict>
+	<key>Primavera</key>
+	<dict>
+		<key>Primavera</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.45</string>
+		</dict>
+	</dict>
+	<key>Determa</key>
+	<dict>
+		<key>Determa</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.58</string>
+		</dict>
+	</dict>
+	<key>Lapacho</key>
+	<dict>
+		<key>Lapacho</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.91</string>
+			<key>Quarter Sawn</key>
+			<string>.00266</string>
+			<key>Plain Sawn</key>
+			<string>.00307</string>
+			<key>Common Name</key>
+			<string>Brazilian Walnut, Ipe</string>
+			<key>Botanical Name</key>
+			<string>Tabebuia Serratifolia</string>
+			<key>Janka Hardness</key>
+			<string>3680</string>
+			<key>Tangential Shrinkage</key>
+			<string>8.0%</string>
+			<key>Radial Shrinkage</key>
+			<string>6.6%</string>
+			<key>Fiber Saturation Point</key>
+			<string>20%</string>
+			<key>Color Range</key>
+			<string>Medium - Dark Brown</string>
+			<key>U.V. Sensitive</key>
+			<string>Moderate</string>
+			<key>Stability</key>
+			<string>Moderate</string>
+			<key>Grain</key>
+			<string>Straight to very irregular</string>
+			<key>Origin</key>
+			<string>Brazil, Bolivia, Argentina, Paraguay</string>
+			<key>Resource</key>
+			<string>www.novausawood.com</string>
+		</dict>
+	</dict>
+	<key>Tanoak</key>
+	<dict>
+		<key>Tanoak</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.58</string>
+		</dict>
+	</dict>
+	<key>Tamarack</key>
+	<dict>
+		<key>Tamarack</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.53</string>
+		</dict>
+	</dict>
+	<key>Cumaru</key>
+	<dict>
+		<key>Cumaru</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00245</string>
+			<key>Plain Sawn</key>
+			<string>.00381</string>
+			<key>Common Name</key>
+			<string>Brazilian Teak, Southern Chestnut</string>
+			<key>Botanical Name</key>
+			<string>Dipterix odorata</string>
+			<key>Janka Hardness</key>
+			<string>3200</string>
+			<key>Specific Gravity</key>
+			<string>.90</string>
+			<key>Tangential Shrinkage</key>
+			<string>8.4%</string>
+			<key>Radial Shrinkage</key>
+			<string>5.4%</string>
+			<key>Fiber Saturation Point</key>
+			<string>22%</string>
+			<key>Color Range</key>
+			<string>Reddish to purplish brown</string>
+			<key>U.V. Sensitive</key>
+			<string>More uniform on exposure</string>
+			<key>Grain</key>
+			<string>Interlocked</string>
+			<key>Origin</key>
+			<string>Brazil, Venezuela, Peru, Bolivia, Guianes, Columbia</string>
+			<key>Resource</key>
+			<string>www.novausawood.com</string>
+		</dict>
+	</dict>
+	<key>Chestnut</key>
+	<dict>
+		<key>Southern</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00245</string>
+			<key>Plain Sawn</key>
+			<string>.00381</string>
+			<key>Common Name</key>
+			<string>Brazilian Teak, Cumaru</string>
+			<key>Botanical Name</key>
+			<string>Dipterix odorata</string>
+			<key>Janka Hardness</key>
+			<string>3200</string>
+			<key>Specific Gravity</key>
+			<string>.90</string>
+			<key>Tangential Shrinkage</key>
+			<string>8.4%</string>
+			<key>Radial Shrinkage</key>
+			<string>5.4%</string>
+			<key>Fiber Saturation Point</key>
+			<string>22%</string>
+			<key>Color Range</key>
+			<string>Reddish to purplish brown</string>
+			<key>U.V. Sensitive</key>
+			<string>More uniform on exposure</string>
+			<key>Grain</key>
+			<string>Interlocked</string>
+			<key>Origin</key>
+			<string>Brazil, Venezuela, Peru, Bolivia, Guianes, Columbia</string>
+			<key>Resource</key>
+			<string>www.novausawood.com</string>
+		</dict>
+		<key>American</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.43</string>
+			<key>Quarter Sawn</key>
+			<string>.00116</string>
+			<key>Plain Sawn</key>
+			<string>.00234</string>
+		</dict>
+		<key>Sweet</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00184</string>
+			<key>Plain Sawn</key>
+			<string>.00328</string>
+		</dict>
+	</dict>
+	<key>Cherry</key>
+	<dict>
+		<key>Brazilian</key>
+		<dict>
+			<key>Plain Sawn</key>
+			<string>.003</string>
+		</dict>
+		<key>Patagonian</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.0016</string>
+			<key>Plain Sawn</key>
+			<string>.00280</string>
+			<key>Common Name</key>
+			<string>Tiete Rosewood, Bolivian Rosewood</string>
+			<key>Janka Hardness</key>
+			<string>3280</string>
+			<key>Specific Graviry</key>
+			<string>.67</string>
+			<key>Tangential Shrinkage</key>
+			<string>7.0%</string>
+			<key>Radial Shrinkage</key>
+			<string>4.0%</string>
+			<key>Fiber Saturation Point</key>
+			<string>25%</string>
+			<key>Color Range</key>
+			<string>Salmon color heartwood</string>
+			<key>U.V. Sensitive</key>
+			<string>more uniform</string>
+			<key>Stability</key>
+			<string>Moderate</string>
+			<key>Grain</key>
+			<string>Interlocked</string>
+			<key>Origin</key>
+			<string>Bolivia, Paraguay</string>
+			<key>Resource</key>
+			<string>www.novausawood.com</string>
+		</dict>
+		<key>Black</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.5</string>
+			<key>Quarter Sawn</key>
+			<string>.00126</string>
+			<key>Plain Sawn</key>
+			<string>.00248</string>
+		</dict>
+		<key>American</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00206</string>
+			<key>Plain Sawn</key>
+			<string>.00303</string>
+		</dict>
+		<key>Chilean</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00243</string>
+			<key>Plain Sawn</key>
+			<string>.00413</string>
+		</dict>
+		<key>Bolivian</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00197</string>
+			<key>Plain Sawn</key>
+			<string>.00234</string>
+		</dict>
+		<key>Andean</key>
+		<dict>
+			<key>Plain Sawn</key>
+			<string>.00302</string>
+		</dict>
+	</dict>
+	<key>Birch</key>
+	<dict>
+		<key>Sweet</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.65</string>
+		</dict>
+		<key>River</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00162</string>
+			<key>Plain Sawn</key>
+			<string>.00327</string>
+		</dict>
+		<key>Yellow</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.62</string>
+			<key>Quarter Sawn</key>
+			<string>.00256</string>
+			<key>Plain Sawn</key>
+			<string>.00338</string>
+		</dict>
+		<key>Paper</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.55</string>
+			<key>Quarter Sawn</key>
+			<string>.00219</string>
+			<key>Plain Sawn</key>
+			<string>.00304</string>
+		</dict>
+	</dict>
+	<key>Butternut</key>
+	<dict>
+		<key>Butternut</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.38</string>
+		</dict>
+	</dict>
+	<key>Beech</key>
+	<dict>
+		<key>European</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00199</string>
+			<key>Plain Sawn</key>
+			<string>.00346</string>
+		</dict>
+		<key>American</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.64</string>
+			<key>Quarter Sawn</key>
+			<string>.0019</string>
+			<key>Plain Sawn</key>
+			<string>.00431</string>
+		</dict>
+	</dict>
+	<key>Basswood</key>
+	<dict>
+		<key>American</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.37</string>
+			<key>Quarter Sawn</key>
+			<string>.0023</string>
+			<key>Plain Sawn</key>
+			<string>.0033</string>
+		</dict>
+	</dict>
+	<key>Bamboo</key>
+	<dict>
+		<key>Carbonized</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00168</string>
+			<key>Plain Sawn</key>
+			<string>.00211</string>
+		</dict>
+		<key>Natural</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.00168</string>
+			<key>Plain Sawn</key>
+			<string>.00211</string>
+		</dict>
+	</dict>
+	<key>Aspen</key>
+	<dict>
+		<key>Bigtooth</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.39</string>
+		</dict>
+		<key>Quaking</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.38</string>
+			<key>Quarter Sawn</key>
+			<string>.00119</string>
+			<key>Plain Sawn</key>
+			<string>.00234</string>
+		</dict>
+	</dict>
+	<key>Ash</key>
+	<dict>
+		<key>Red</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.55</string>
+		</dict>
+		<key>Oregon</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.55</string>
+		</dict>
+		<key>Blue</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.58</string>
+		</dict>
+		<key>Silky</key>
+		<dict>
+			<key>Quarter Sawn</key>
+			<string>.0027</string>
+			<key>Plain Sawn</key>
+			<string>.00311</string>
+		</dict>
+		<key>Green</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.56</string>
+			<key>Quarter Sawn</key>
+			<string>.00169</string>
+			<key>Plain Sawn</key>
+			<string>.00274</string>
+		</dict>
+		<key>White</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.6</string>
+			<key>Quarter Sawn</key>
+			<string>.00169</string>
+			<key>Plain Sawn</key>
+			<string>.00274</string>
+		</dict>
+		<key>Black</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.49</string>
+			<key>Quarter Sawn</key>
+			<string>.00172</string>
+			<key>Plain Sawn</key>
+			<string>.00274</string>
+		</dict>
+	</dict>
+	<key>Amendoim</key>
+	<dict>
+		<key>Amendoim</key>
+		<dict>
+			<key>Janka Hardness</key>
+			<string>1340</string>
+			<key>Radial Shrinkage</key>
+			<string>4.6%</string>
+			<key>Fiber Saturation Point</key>
+			<string>25%</string>
+			<key>Stability</key>
+			<string>Moderatly Stable</string>
+			<key>Grain</key>
+			<string>Interlocked</string>
+			<key>Resource</key>
+			<string>www.novausawood.com</string>
+			<key>Origin</key>
+			<string>Brazil, Argentina, Paraguay</string>
+			<key>Ultra Violet Sensitive</key>
+			<string>Yes, color darkens</string>
+			<key>Color Range</key>
+			<string>Reddish to yellowish brown</string>
+			<key>Tangential Shrinkage</key>
+			<string>6.5%</string>
+			<key>Specific Gravity</key>
+			<string>.66</string>
+			<key>Botanical Name</key>
+			<string>Pterogyne nitens</string>
+			<key>Plain Sawn</key>
+			<string>.00251</string>
+			<key>Quarter Sawn</key>
+			<string>.00213</string>
+		</dict>
+	</dict>
+	<key>Aformosia</key>
+	<dict>
+		<key>Afrormosia</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.69</string>
+			<key>Plain Sawn</key>
+			<string>.00329</string>
+			<key>Quarter Sawn</key>
+			<string>.0019</string>
+		</dict>
+	</dict>
+	<key>Banak</key>
+	<dict>
+		<key>Cuangare</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.62</string>
+		</dict>
+	</dict>
+	<key>Benge</key>
+	<dict>
+		<key>Ehie, Bubinga</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.77</string>
+		</dict>
+	</dict>
+	<key>Andiroba</key>
+	<dict>
+		<key>Andiroba</key>
+		<dict>
+			<key>Imported</key>
+			<string>Yes</string>
+			<key>Stability</key>
+			<string>Moderately Stable</string>
+			<key>Common Name</key>
+			<string>Royal Mahogany, Brazilian Mesquite, Crabwood, Cedro, Macho, Carapa</string>
+			<key>Specific Gravity</key>
+			<string>.55</string>
+			<key>Quarter Sawn</key>
+			<string>.00114</string>
+			<key>Tangential Shrinkage</key>
+			<string>7.6%</string>
+			<key>Plain Sawn</key>
+			<string>.00281</string>
+			<key>Radial Shrinkage</key>
+			<string>3.1%</string>
+			<key>Fiber Saturation Point</key>
+			<string>27%</string>
+			<key>Color Range</key>
+			<string>Light Pink to Reddish Brown</string>
+			<key>U.V. Sensitive</key>
+			<string>Yes, darkens with time</string>
+			<key>Grain</key>
+			<string>Straight and sometimes roey</string>
+			<key>Origin</key>
+			<string>Central and South America</string>
+			<key>Resource</key>
+			<string>www.novausawood.com</string>
+			<key>Janka Hardness</key>
+			<string>1220</string>
+			<key>Botanical Name</key>
+			<string>Carapa Procera</string>
+		</dict>
+	</dict>
+	<key>Anegre</key>
+	<dict>
+		<key>Anegre</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.54</string>
+		</dict>
+	</dict>
+	<key>Avodire</key>
+	<dict>
+		<key>Avodire</key>
+		<dict>
+			<key>Specific Gravity</key>
+			<string>.55</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
