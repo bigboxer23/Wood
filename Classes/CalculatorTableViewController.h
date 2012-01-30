@@ -14,6 +14,7 @@
 #import	"RoomExpansionViewController.h"
 #import "EMCCalculatorViewController.h"
 #import "InstallMoistureCalculatorViewController.h"
+#import "IndoorRHCalculatorViewController.h"
 
 @interface CalculatorTableViewController : UITableViewController {
 	NSArray *myCalculatorViewControllers;

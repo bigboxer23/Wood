@@ -47,6 +47,10 @@
 		C97504AD12DFE328008AD261 /* CrowningHelpController.m in Sources */ = {isa = PBXBuildFile; fileRef = C97504AB12DFE328008AD261 /* CrowningHelpController.m */; };
 		C98EAEA013242EBD002F6E13 /* calcBackgroundImage.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C98EAE9F13242EBD002F6E13 /* calcBackgroundImage.jpg */; };
 		C992715E131F0D0F00183CBB /* whiteDot.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C992715D131F0D0F00183CBB /* whiteDot.jpg */; };
+		C9A0AFE414D6161500A576BC /* IndoorRHCalculatorView.xib in Resources */ = {isa = PBXBuildFile; fileRef = C9A0AFE314D6161500A576BC /* IndoorRHCalculatorView.xib */; };
+		C9A0AFE614D6161E00A576BC /* IndoorRHHelpView.xib in Resources */ = {isa = PBXBuildFile; fileRef = C9A0AFE514D6161E00A576BC /* IndoorRHHelpView.xib */; };
+		C9A0AFE914D6166900A576BC /* IndoorRHCalculatorViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C9A0AFE814D6166900A576BC /* IndoorRHCalculatorViewController.m */; };
+		C9A0AFEC14D6174100A576BC /* IndoorRHHelpController.m in Sources */ = {isa = PBXBuildFile; fileRef = C9A0AFEB14D6174100A576BC /* IndoorRHHelpController.m */; };
 		C9AD4357123C4C9700777280 /* NumberKeypadDecimalPoint.m in Sources */ = {isa = PBXBuildFile; fileRef = C9AD4356123C4C9700777280 /* NumberKeypadDecimalPoint.m */; };
 		C9B6B05112B9CC91002DB92D /* LandingPageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C9B6B04F12B9CC91002DB92D /* LandingPageViewController.m */; };
 		C9C0A5711314A57C00CDD158 /* noImage.png in Resources */ = {isa = PBXBuildFile; fileRef = C9C0A5701314A57C00CDD158 /* noImage.png */; };
@@ -146,6 +150,12 @@
 		C987051812EFC8CA003281F0 /* Entitlements.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Entitlements.plist; sourceTree = "<group>"; };
 		C98EAE9F13242EBD002F6E13 /* calcBackgroundImage.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = calcBackgroundImage.jpg; sourceTree = "<group>"; };
 		C992715D131F0D0F00183CBB /* whiteDot.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = whiteDot.jpg; sourceTree = "<group>"; };
+		C9A0AFE314D6161500A576BC /* IndoorRHCalculatorView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = IndoorRHCalculatorView.xib; sourceTree = "<group>"; };
+		C9A0AFE514D6161E00A576BC /* IndoorRHHelpView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = IndoorRHHelpView.xib; sourceTree = "<group>"; };
+		C9A0AFE714D6166900A576BC /* IndoorRHCalculatorViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IndoorRHCalculatorViewController.h; sourceTree = "<group>"; };
+		C9A0AFE814D6166900A576BC /* IndoorRHCalculatorViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IndoorRHCalculatorViewController.m; sourceTree = "<group>"; };
+		C9A0AFEA14D6174100A576BC /* IndoorRHHelpController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IndoorRHHelpController.h; sourceTree = "<group>"; };
+		C9A0AFEB14D6174100A576BC /* IndoorRHHelpController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IndoorRHHelpController.m; sourceTree = "<group>"; };
 		C9AD4355123C4C9700777280 /* NumberKeypadDecimalPoint.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NumberKeypadDecimalPoint.h; sourceTree = "<group>"; };
 		C9AD4356123C4C9700777280 /* NumberKeypadDecimalPoint.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NumberKeypadDecimalPoint.m; sourceTree = "<group>"; };
 		C9B6B04E12B9CC91002DB92D /* LandingPageViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LandingPageViewController.h; sourceTree = "<group>"; };
@@ -290,6 +300,8 @@
 				C97503F712DFD684008AD261 /* GappingHelpController.m */,
 				C92A884014D0D0D400ABB706 /* InstallMoistureHelpController.h */,
 				C92A884114D0D0D400ABB706 /* InstallMoistureHelpController.m */,
+				C9A0AFEA14D6174100A576BC /* IndoorRHHelpController.h */,
+				C9A0AFEB14D6174100A576BC /* IndoorRHHelpController.m */,
 			);
 			name = HelpControllers;
 			sourceTree = "<group>";
@@ -300,6 +312,8 @@
 				C992706B131DDA3100183CBB /* utility */,
 				C9D65A641315EC7F00520A57 /* CalculatorTableViewController.h */,
 				C9D65A651315EC7F00520A57 /* CalculatorTableViewController.m */,
+				C92A883B14D0CD4F00ABB706 /* InstallMoistureCalculatorViewController.h */,
+				C92A883C14D0CD4F00ABB706 /* InstallMoistureCalculatorViewController.m */,
 				C9059AC411FE90A2008D6747 /* GappingCalculatorViewController.h */,
 				C9059AC511FE90A2008D6747 /* GappingCalculatorViewController.m */,
 				C9059AC911FE90C5008D6747 /* CrowningCalculatorViewController.h */,
@@ -315,8 +329,8 @@
 				C9FCBCC5123F1AE80087AAFA /* AbstractCalculatorViewController.h */,
 				C9FCBCC6123F1AE80087AAFA /* AbstractCalculatorViewController.m */,
 				C9927069131DD9C500183CBB /* HelpControllers */,
-				C92A883B14D0CD4F00ABB706 /* InstallMoistureCalculatorViewController.h */,
-				C92A883C14D0CD4F00ABB706 /* InstallMoistureCalculatorViewController.m */,
+				C9A0AFE714D6166900A576BC /* IndoorRHCalculatorViewController.h */,
+				C9A0AFE814D6166900A576BC /* IndoorRHCalculatorViewController.m */,
 			);
 			name = calculator;
 			sourceTree = "<group>";
@@ -357,6 +371,7 @@
 		C9927098131DDBF800183CBB /* calculator */ = {
 			isa = PBXGroup;
 			children = (
+				C9A0AFE314D6161500A576BC /* IndoorRHCalculatorView.xib */,
 				C92A884314D0D45400ABB706 /* InstallMoistureCalculatorView.xib */,
 				C95CFE2214B8A2650012A908 /* EMCCalculatorView.xib */,
 				C9DBC2511311BC4D0021A1BC /* CrowningCalculatorView.xib */,
@@ -372,6 +387,7 @@
 		C9927099131DDBFE00183CBB /* help */ = {
 			isa = PBXGroup;
 			children = (
+				C9A0AFE514D6161E00A576BC /* IndoorRHHelpView.xib */,
 				C92A883E14D0D05F00ABB706 /* InstallMoistureHelpView.xib */,
 				C94E842D1311BCA100EB09E6 /* CrowningHelpController.xib */,
 				C94E842E1311BCA100EB09E6 /* CuppingHelpController.xib */,
@@ -536,6 +552,8 @@
 				C95CFE2314B8A2650012A908 /* EMCCalculatorView.xib in Resources */,
 				C92A883F14D0D05F00ABB706 /* InstallMoistureHelpView.xib in Resources */,
 				C92A884414D0D45400ABB706 /* InstallMoistureCalculatorView.xib in Resources */,
+				C9A0AFE414D6161500A576BC /* IndoorRHCalculatorView.xib in Resources */,
+				C9A0AFE614D6161E00A576BC /* IndoorRHHelpView.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -570,6 +588,8 @@
 				C95CFE2614B8A2F40012A908 /* EMCCalculatorViewController.m in Sources */,
 				C92A883D14D0CD4F00ABB706 /* InstallMoistureCalculatorViewController.m in Sources */,
 				C92A884214D0D0D400ABB706 /* InstallMoistureHelpController.m in Sources */,
+				C9A0AFE914D6166900A576BC /* IndoorRHCalculatorViewController.m in Sources */,
+				C9A0AFEC14D6174100A576BC /* IndoorRHHelpController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
