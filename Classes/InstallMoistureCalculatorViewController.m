@@ -18,6 +18,27 @@
 -(IBAction)inputTouched:(id)sender
 {
 	[[self navigationItem].rightBarButtonItem setTitle:@"Done"];
+	[UIView beginAnimations:nil context:NULL];
+	[UIView setAnimationDuration:0.4];
+	[UIView setAnimationDelegate:self];
+	if(sender == myBoardWidth)
+	{
+		[myMainView setFrame:CGRectMake(0, 40, myMainView.frame.size.width, myMainView.frame.size.height)];
+	}
+	if(sender == myIndoorTemp)
+	{
+		[myMainView setFrame:CGRectMake(0, -80, myMainView.frame.size.width, myMainView.frame.size.height)];
+	}
+	if(sender == myRelativeHumidy)
+	{
+		[myMainView setFrame:CGRectMake(0, -40, myMainView.frame.size.width, myMainView.frame.size.height)];
+	}
+	if(sender == myInstallMoistureCont)
+	{
+		[myMainView setFrame:CGRectMake(0, 0, myMainView.frame.size.width, myMainView.frame.size.height)];
+	}
+	[UIView commitAnimations];
+
 }
 
 
