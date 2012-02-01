@@ -47,6 +47,8 @@
 		C97504AD12DFE328008AD261 /* CrowningHelpController.m in Sources */ = {isa = PBXBuildFile; fileRef = C97504AB12DFE328008AD261 /* CrowningHelpController.m */; };
 		C98EAEA013242EBD002F6E13 /* calcBackgroundImage.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C98EAE9F13242EBD002F6E13 /* calcBackgroundImage.jpg */; };
 		C992715E131F0D0F00183CBB /* whiteDot.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C992715D131F0D0F00183CBB /* whiteDot.jpg */; };
+		C997041C14DA07E100446202 /* EMCHelpController.xib in Resources */ = {isa = PBXBuildFile; fileRef = C997041B14DA07E100446202 /* EMCHelpController.xib */; };
+		C997041F14DA086200446202 /* EMCHelpController.m in Sources */ = {isa = PBXBuildFile; fileRef = C997041E14DA086200446202 /* EMCHelpController.m */; };
 		C9A0AFE414D6161500A576BC /* IndoorRHCalculatorView.xib in Resources */ = {isa = PBXBuildFile; fileRef = C9A0AFE314D6161500A576BC /* IndoorRHCalculatorView.xib */; };
 		C9A0AFE614D6161E00A576BC /* IndoorRHHelpView.xib in Resources */ = {isa = PBXBuildFile; fileRef = C9A0AFE514D6161E00A576BC /* IndoorRHHelpView.xib */; };
 		C9A0AFE914D6166900A576BC /* IndoorRHCalculatorViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C9A0AFE814D6166900A576BC /* IndoorRHCalculatorViewController.m */; };
@@ -150,6 +152,9 @@
 		C987051812EFC8CA003281F0 /* Entitlements.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Entitlements.plist; sourceTree = "<group>"; };
 		C98EAE9F13242EBD002F6E13 /* calcBackgroundImage.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = calcBackgroundImage.jpg; sourceTree = "<group>"; };
 		C992715D131F0D0F00183CBB /* whiteDot.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = whiteDot.jpg; sourceTree = "<group>"; };
+		C997041B14DA07E100446202 /* EMCHelpController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = EMCHelpController.xib; sourceTree = "<group>"; };
+		C997041D14DA086100446202 /* EMCHelpController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EMCHelpController.h; sourceTree = "<group>"; };
+		C997041E14DA086200446202 /* EMCHelpController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EMCHelpController.m; sourceTree = "<group>"; };
 		C9A0AFE314D6161500A576BC /* IndoorRHCalculatorView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = IndoorRHCalculatorView.xib; sourceTree = "<group>"; };
 		C9A0AFE514D6161E00A576BC /* IndoorRHHelpView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = IndoorRHHelpView.xib; sourceTree = "<group>"; };
 		C9A0AFE714D6166900A576BC /* IndoorRHCalculatorViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IndoorRHCalculatorViewController.h; sourceTree = "<group>"; };
@@ -302,6 +307,8 @@
 				C92A884114D0D0D400ABB706 /* InstallMoistureHelpController.m */,
 				C9A0AFEA14D6174100A576BC /* IndoorRHHelpController.h */,
 				C9A0AFEB14D6174100A576BC /* IndoorRHHelpController.m */,
+				C997041D14DA086100446202 /* EMCHelpController.h */,
+				C997041E14DA086200446202 /* EMCHelpController.m */,
 			);
 			name = HelpControllers;
 			sourceTree = "<group>";
@@ -387,6 +394,7 @@
 		C9927099131DDBFE00183CBB /* help */ = {
 			isa = PBXGroup;
 			children = (
+				C997041B14DA07E100446202 /* EMCHelpController.xib */,
 				C9A0AFE514D6161E00A576BC /* IndoorRHHelpView.xib */,
 				C92A883E14D0D05F00ABB706 /* InstallMoistureHelpView.xib */,
 				C94E842D1311BCA100EB09E6 /* CrowningHelpController.xib */,
@@ -554,6 +562,7 @@
 				C92A884414D0D45400ABB706 /* InstallMoistureCalculatorView.xib in Resources */,
 				C9A0AFE414D6161500A576BC /* IndoorRHCalculatorView.xib in Resources */,
 				C9A0AFE614D6161E00A576BC /* IndoorRHHelpView.xib in Resources */,
+				C997041C14DA07E100446202 /* EMCHelpController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -590,6 +599,7 @@
 				C92A884214D0D0D400ABB706 /* InstallMoistureHelpController.m in Sources */,
 				C9A0AFE914D6166900A576BC /* IndoorRHCalculatorViewController.m in Sources */,
 				C9A0AFEC14D6174100A576BC /* IndoorRHHelpController.m in Sources */,
+				C997041F14DA086200446202 /* EMCHelpController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

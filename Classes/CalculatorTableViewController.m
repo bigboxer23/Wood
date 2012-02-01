@@ -26,6 +26,7 @@
 										@"Room Expansion Calculator",
                                          @"Equilibrium Moisture Content Calculator",
                                          @"Install Moisture Calculator",
+                                         @"Install Moisture Calculator",
 										nil] sortedArrayUsingSelector:@selector(compare:)];
 }
 
