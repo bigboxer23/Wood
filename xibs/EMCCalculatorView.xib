@@ -40,7 +40,8 @@
 				<string key="targetRuntimeIdentifier">IBCocoaTouchFramework</string>
 			</object>
 			<object class="IBUIViewController" id="169142439">
-				<string key="IBUITitle">Gapping Help</string>
+				<string key="IBUITitle">Equilibrium Moisture Content Help</string>
+				<string key="IBUINibName">EMCHelpController</string>
 				<object class="IBUISimulatedStatusBarMetrics" key="IBUISimulatedStatusBarMetrics"/>
 				<object class="IBUISimulatedOrientationMetrics" key="IBUISimulatedOrientationMetrics">
 					<int key="IBUIInterfaceOrientation">1</int>

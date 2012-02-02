@@ -10,5 +10,10 @@
 #import "AbstractCalculatorViewController.h"
 
 @interface IndoorRHCalculatorViewController : AbstractCalculatorViewController
+{
+    IBOutlet UITextField *myWaterVapor;
+}
+
+@property (nonatomic, retain) UITextField *myWaterVapor;
 
 @end

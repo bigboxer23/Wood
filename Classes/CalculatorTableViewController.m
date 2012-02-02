@@ -26,7 +26,7 @@
 										@"Room Expansion Calculator",
                                          @"Equilibrium Moisture Content Calculator",
                                          @"Install Moisture Calculator",
-                                         @"Install Moisture Calculator",
+                                         @"Indoor Relative Humidity Calculator",
 										nil] sortedArrayUsingSelector:@selector(compare:)];
 }
 
@@ -93,6 +93,9 @@
     } else if([theViewController isEqual:@"Install Moisture Calculator"])
     {
         return [[InstallMoistureCalculatorViewController alloc] initWithNibName:@"InstallMoistureCalculatorView" bundle:nil];
+    } else if([theViewController isEqual: @"Indoor Relative Humidity Calculator"])
+    {
+        return [[IndoorRHCalculatorViewController alloc] initWithNibName:@"IndoorRHCalculatorView" bundle:nil];
     }
 	return NULL;
 }
