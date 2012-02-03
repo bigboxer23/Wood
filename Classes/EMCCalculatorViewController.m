@@ -52,6 +52,6 @@ Where:
   //                               2 * aK1 * aK2 * pow(aK, 2) * pow(aRelHumidity, 2)) /
     //                            (1 + (aK1 * aK * aRelHumidity) + aK1 * aK2 * pow(aK, 2) * pow(aRelHumidity, 2)));
     
-	myGapSize.text = [NSString stringWithFormat:@"%.4f", aFinal];
+	myGapSize.text = [NSString stringWithFormat:@"%.3f", aFinal];
 }
 @end

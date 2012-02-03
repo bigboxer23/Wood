@@ -55,7 +55,7 @@
     float aMoisureGain = (aGap / aTotalWidth) / myDimensionalChangeCoefficient;
     float aInstallMC = aMoisureGain +  aMoistureContent;
     
-	myGapSize.text = [NSString stringWithFormat:@"%.1f", aInstallMC];
+	myGapSize.text = [NSString stringWithFormat:@"%.3f", aInstallMC];
     myMoistureGain.text = [NSString stringWithFormat:@"%.2f", aMoisureGain];
 
 }

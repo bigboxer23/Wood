@@ -280,7 +280,7 @@
 		for(int ai = 0; ai < [anInformation count] && !aFound; ai++)
 		{
 			NSString *anInfo = [anInformation objectAtIndex:ai];
-			if([anInfo isEqualToString:@"Quarter Sawn"] || [anInfo isEqualToString:@"Plain Sawn"])
+			if(/*[anInfo isEqualToString:@"Quarter Sawn"] ||*/ [anInfo isEqualToString:@"Plain Sawn"])
 			{
 				self.mySawn.text = anInfo;
 				aFound = TRUE;

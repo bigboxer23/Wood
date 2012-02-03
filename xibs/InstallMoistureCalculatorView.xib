@@ -2,10 +2,10 @@
 <archive type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="7.10">
 	<data>
 		<int key="IBDocument.SystemTarget">1280</int>
-		<string key="IBDocument.SystemVersion">11C74</string>
+		<string key="IBDocument.SystemVersion">11D50</string>
 		<string key="IBDocument.InterfaceBuilderVersion">1938</string>
-		<string key="IBDocument.AppKitVersion">1138.23</string>
-		<string key="IBDocument.HIToolboxVersion">567.00</string>
+		<string key="IBDocument.AppKitVersion">1138.32</string>
+		<string key="IBDocument.HIToolboxVersion">568.00</string>
 		<object class="NSMutableDictionary" key="IBDocument.PluginVersions">
 			<string key="NS.key.0">com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
 			<string key="NS.object.0">933</string>
@@ -78,7 +78,7 @@
 							<object class="IBUITextField" id="970662463">
 								<reference key="NSNextResponder" ref="768458926"/>
 								<int key="NSvFlags">292</int>
-								<string key="NSFrame">{{159, 84.5}, {160, 31}}</string>
+								<string key="NSFrame">{{197, 84.5}, {120, 31}}</string>
 								<reference key="NSSuperview" ref="768458926"/>
 								<reference key="NSWindow"/>
 								<reference key="NSNextKeyView" ref="996112729"/>
@@ -165,7 +165,7 @@
 							<object class="IBUITextField" id="56899371">
 								<reference key="NSNextResponder" ref="768458926"/>
 								<int key="NSvFlags">292</int>
-								<string key="NSFrame">{{159, 44.5}, {160, 31}}</string>
+								<string key="NSFrame">{{197, 44.5}, {120, 31}}</string>
 								<reference key="NSSuperview" ref="768458926"/>
 								<reference key="NSWindow"/>
 								<reference key="NSNextKeyView" ref="888360743"/>
@@ -211,7 +211,7 @@
 							<object class="IBUILabel" id="996112729">
 								<reference key="NSNextResponder" ref="768458926"/>
 								<int key="NSvFlags">292</int>
-								<string key="NSFrame">{{5, 129.5}, {147, 21}}</string>
+								<string key="NSFrame">{{5, 129.5}, {178, 21}}</string>
 								<reference key="NSSuperview" ref="768458926"/>
 								<reference key="NSWindow"/>
 								<reference key="NSNextKeyView" ref="916051043"/>
@@ -220,7 +220,7 @@
 								<int key="IBUIContentMode">7</int>
 								<bool key="IBUIUserInteractionEnabled">NO</bool>
 								<string key="targetRuntimeIdentifier">IBCocoaTouchFramework</string>
-								<string key="IBUIText">Avg. Board Width</string>
+								<string key="IBUIText">Board Width Average </string>
 								<reference key="IBUITextColor" ref="709037442"/>
 								<nil key="IBUIHighlightedColor"/>
 								<int key="IBUIBaselineAdjustment">1</int>
@@ -231,7 +231,7 @@
 							<object class="IBUILabel" id="742333978">
 								<reference key="NSNextResponder" ref="768458926"/>
 								<int key="NSvFlags">292</int>
-								<string key="NSFrame">{{5, 209.5}, {143, 21}}</string>
+								<string key="NSFrame">{{5, 209.5}, {144, 21}}</string>
 								<reference key="NSSuperview" ref="768458926"/>
 								<reference key="NSWindow"/>
 								<reference key="NSNextKeyView" ref="528424455"/>
@@ -240,7 +240,7 @@
 								<int key="IBUIContentMode">7</int>
 								<bool key="IBUIUserInteractionEnabled">NO</bool>
 								<string key="targetRuntimeIdentifier">IBCocoaTouchFramework</string>
-								<string key="IBUIText">Avg. Gap Size</string>
+								<string key="IBUIText">Average Gap Size</string>
 								<reference key="IBUITextColor" ref="709037442"/>
 								<nil key="IBUIHighlightedColor"/>
 								<int key="IBUIBaselineAdjustment">1</int>
@@ -251,7 +251,7 @@
 							<object class="IBUILabel" id="637065068">
 								<reference key="NSNextResponder" ref="768458926"/>
 								<int key="NSvFlags">292</int>
-								<string key="NSFrame">{{5, 169.5}, {162, 21}}</string>
+								<string key="NSFrame">{{5, 169.5}, {184, 21}}</string>
 								<reference key="NSSuperview" ref="768458926"/>
 								<reference key="NSWindow"/>
 								<reference key="NSNextKeyView" ref="1000182173"/>
@@ -260,7 +260,7 @@
 								<int key="IBUIContentMode">7</int>
 								<bool key="IBUIUserInteractionEnabled">NO</bool>
 								<string key="targetRuntimeIdentifier">IBCocoaTouchFramework</string>
-								<string key="IBUIText">Field Moist. Cont.</string>
+								<string key="IBUIText">Field Moisture Cont. %</string>
 								<reference key="IBUITextColor" ref="709037442"/>
 								<nil key="IBUIHighlightedColor"/>
 								<int key="IBUIBaselineAdjustment">1</int>
@@ -271,7 +271,7 @@
 							<object class="IBUITextField" id="1000182173">
 								<reference key="NSNextResponder" ref="768458926"/>
 								<int key="NSvFlags">292</int>
-								<string key="NSFrame">{{159, 164.5}, {160, 31}}</string>
+								<string key="NSFrame">{{197, 164.5}, {120, 31}}</string>
 								<reference key="NSSuperview" ref="768458926"/>
 								<reference key="NSWindow"/>
 								<reference key="NSNextKeyView" ref="742333978"/>
@@ -302,7 +302,7 @@
 							<object class="IBUITextField" id="528424455">
 								<reference key="NSNextResponder" ref="768458926"/>
 								<int key="NSvFlags">292</int>
-								<string key="NSFrame">{{159, 204.5}, {160, 31}}</string>
+								<string key="NSFrame">{{197, 204.5}, {120, 31}}</string>
 								<reference key="NSSuperview" ref="768458926"/>
 								<reference key="NSWindow"/>
 								<reference key="NSNextKeyView" ref="730452333"/>
@@ -332,7 +332,7 @@
 							<object class="IBUITextField" id="916051043">
 								<reference key="NSNextResponder" ref="768458926"/>
 								<int key="NSvFlags">292</int>
-								<string key="NSFrame">{{159, 125}, {160, 31}}</string>
+								<string key="NSFrame">{{197, 125}, {120, 31}}</string>
 								<reference key="NSSuperview" ref="768458926"/>
 								<reference key="NSWindow"/>
 								<reference key="NSNextKeyView" ref="637065068"/>
@@ -362,7 +362,7 @@
 							<object class="IBUITextField" id="455539048">
 								<reference key="NSNextResponder" ref="768458926"/>
 								<int key="NSvFlags">292</int>
-								<string key="NSFrame">{{159, 4.5}, {160, 31}}</string>
+								<string key="NSFrame">{{197, 4.5}, {120, 31}}</string>
 								<reference key="NSSuperview" ref="768458926"/>
 								<reference key="NSWindow"/>
 								<reference key="NSNextKeyView" ref="521988213"/>
