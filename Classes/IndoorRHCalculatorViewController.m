@@ -168,17 +168,17 @@
  End Function*/
 @implementation IndoorRHCalculatorViewController
 
-const float P_ATM = 29.921;
-const float A1 = -7.90298;
-const float A2 = 5.02808;
-const float A3 = -0.00000013816;
-const float A4 = 11.344;
-const float A5 = 0.0081328;
-const float A6 = -3.49149;
-const float B1 = -9.09718;
-const float B2 = -3.56654;
-const float B3 = 0.876793;
-const float B4 = 0.0060273;
+const float P_ATM = 29.921f;
+const float A1 = -7.90298f;
+const float A2 = 5.02808f;
+const float A3 = -0.00000013816f;
+const float A4 = 11.344f;
+const float A5 = 0.0081328f;
+const float A6 = -3.49149f;
+const float B1 = -9.09718f;
+const float B2 = -3.56654f;
+const float B3 = 0.876793f;
+const float B4 = 0.0060273f;
 
 @synthesize myWaterVapor;
 
@@ -246,8 +246,9 @@ const float B4 = 0.0060273;
  */
 +(float) HumidRatio:(float) theDBTemp RH: (float) theRH
 {
+    theRH = theRH / 100.0f;
     float aVaporPressureSaturation = [self VaporPresSat:theDBTemp];
-    return 0.622f * theRH * aVaporPressureSaturation / (P_ATM - theRH * aVaporPressureSaturation);   
+    return (0.622f * theRH * aVaporPressureSaturation) / (P_ATM - theRH * aVaporPressureSaturation);   
 }
 
 /*
@@ -302,6 +303,7 @@ const float B4 = 0.0060273;
     {     
         z = 373.16f / anAbsT;
         P1 = A1 * (z - 1.0f);
+        P2 = [self Log10:z];
         P2 = A2 * [self Log10:z];
         P3 = A3 * pow(10, ((A4 * (1.0f - 1.0f / z)) - 1.0f));
         P4 = A5 * pow(10, ((A6 * (z - 1.0f)) - 1.0f));
@@ -326,7 +328,7 @@ const float B4 = 0.0060273;
  */
 +(float) Log10:(float) theArg
 {
-    return logf(theArg) * 2.30258509f;
+    return logf(theArg) / 2.30258509f;
 }
 
 /*
@@ -418,7 +420,7 @@ const float B4 = 0.0060273;
         float anInHumid = anOutHumid + theWaterGen / aMassFlow;
         anInRH = [self RHFromHumid:theInDBTemp Ratio:anInHumid];
     }
-    return anInRH;
+    return anInRH * 100.0f;
 }
 
 -(void) updateCalculations
@@ -428,7 +430,6 @@ const float B4 = 0.0060273;
 	float anOutdoorTemp = [myBoardWidth.text floatValue];
     float anIndoorTemp = [myIndoorTemp.text floatValue];
     float aWaterVapor = [myWaterVapor.text floatValue];
-   // float aInstallMC = aMoisureGain +  aMoistureContent;
     
 	myGapSize.text = [NSString stringWithFormat:@"%.1f", 
                       [IndoorRHCalculatorViewController IndoorRH:aWaterVapor cfm:anAirflow InDBTemp:anIndoorTemp OutDBTemp:anOutdoorTemp OutRH:aOutdoorRH]];    
