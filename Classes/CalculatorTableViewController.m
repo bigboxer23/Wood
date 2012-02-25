@@ -27,6 +27,7 @@
                                          @"Equilibrium Moisture Content Calculator",
                                          @"Install Moisture Calculator",
                                          @"Indoor Relative Humidity Calculator",
+                                         @"Dew Point Calculator",
 										nil] sortedArrayUsingSelector:@selector(compare:)];
 }
 
@@ -96,6 +97,9 @@
     } else if([theViewController isEqual: @"Indoor Relative Humidity Calculator"])
     {
         return [[IndoorRHCalculatorViewController alloc] initWithNibName:@"IndoorRHCalculatorView" bundle:nil];
+    } else if([theViewController isEqual: @"Dew Point Calculator"])
+    {
+        return [[DewPointCalculatorViewController alloc] initWithNibName:@"DewPointCalculatorView" bundle:nil];
     }
 	return NULL;
 }
