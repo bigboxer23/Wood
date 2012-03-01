@@ -205,13 +205,17 @@ const float B4 = 0.0060273f;
 	{
 		[myMainView setFrame:CGRectMake(0, 70, myMainView.frame.size.width, myMainView.frame.size.height)];
 	}
-	if(sender == myInstallMoistureCont)
+	/*if(sender == myInstallMoistureCont)
 	{
 		[myMainView setFrame:CGRectMake(0, 30, myMainView.frame.size.width, myMainView.frame.size.height)];
 	}
 	if(sender == myWaterVapor)
 	{
 		[myMainView setFrame:CGRectMake(0, -10, myMainView.frame.size.width, myMainView.frame.size.height)];
+	}*/
+    if(sender == myWaterVapor)
+	{
+		[myMainView setFrame:CGRectMake(0, 30, myMainView.frame.size.width, myMainView.frame.size.height)];
 	}
 	[UIView commitAnimations];
 }
@@ -426,7 +430,7 @@ const float B4 = 0.0060273f;
 -(void) updateCalculations
 {
     float aOutdoorRH = [myRelativeHumidy.text floatValue];
-	float anAirflow = [myInstallMoistureCont.text floatValue];
+	float anAirflow = 65.0f;//[myInstallMoistureCont.text floatValue];
 	float anOutdoorTemp = [myBoardWidth.text floatValue];
     float anIndoorTemp = [myIndoorTemp.text floatValue];
     float aWaterVapor = [myWaterVapor.text floatValue];
