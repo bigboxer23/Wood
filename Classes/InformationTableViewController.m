@@ -38,11 +38,9 @@
 				[aSubArray addObject:aSpecies];
 			}
 		}
-		[anIndexedDictionary setObject:aSubArray forKey:anIndex];
+		[anIndexedDictionary setObject:[aSubArray sortedArrayUsingSelector:@selector(compare:)] forKey:anIndex];
 	}
 	self.myData = anIndexedDictionary;
-	//self.myData = [[NSDictionary alloc] initWithContentsOfFile:aPlistPath];
-	//self.mySortedSpeciesArray = [[self.myData allKeys] sortedArrayUsingSelector:@selector(compare:)];
 	[aBundle release];
 }
 
