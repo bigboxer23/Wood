@@ -135,18 +135,18 @@
 	float S9 = O9 * P9 * pow(N9, 2) * pow(V9, 2);
 	float Q9	= N9 * V9;
 	float R9	= O9 * Q9;
-	float M6 = 1800.0f / M9 * ((Q9 / (1 - Q9)) + ((R9 + 2 * S9) / (1 + R9 + S9)));
+	float M6 = 1800.0f / M9 * ((Q9 / (1.0f - Q9)) + ((R9 + 2.0f * S9) / (1.0f + R9 + S9)));
 	
 	myGapSize.text = [NSString stringWithFormat:@"%.2f", M6];
 	float O18 = -0.0011f;
 	
 	if(aExposure < 31)
 	{
-		O18 = 1.6 / 30 * aExposure + aInstallMoistureContent;
+		O18 = 1.6f / 30.0f * aExposure + aInstallMoistureContent;
 	}
 	else if(aExposure < 61)
 	{
-		O18 = myDimensionalChangeCoefficient + 1.6 +0.5 / 30 * (aExposure - 30);
+		O18 = myDimensionalChangeCoefficient + 1.6f +0.5f / 30.f * (aExposure - 30.f);
 	}
 	/*else if(aInstallMoistureContent + 2.1 + 3.8 / 20 * (aExposure - 60) < O16)
 	{
